@@ -1,0 +1,1681 @@
+[INFO] Initializing TeamSelector...
+[INFO] Predicting the best team...
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role            Player Team     RoleFlag
+    1      9.0         ALL        Axar Patel   DC      Captain
+    2      9.0          WK      Lokesh Rahul   DC       Player
+    3      9.0          WK      Sanju Samson   RR       Player
+    4      9.0         BAT  Yashasvi Jaiswal   RR       Player
+    5      8.5         ALL Wanindu Hasaranga   RR       Player
+    6      8.5        BOWL    Mitchell Starc   DC       Player
+    7      8.5        BOWL     Kuldeep Yadav   DC Vice-Captain
+    8      8.0         ALL       Riyan Parag   RR       Player
+    9      8.0         BAT    Tristan Stubbs   DC       Player
+   10      8.0        BOWL      Jofra Archer   RR       Player
+   11      7.5         ALL       Nitish Rana   RR       Player
+[INFO] Initializing TeamSelector...
+[INFO] Predicting the best team...
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role            Player Team     RoleFlag
+    1      9.0         ALL        Axar Patel   DC      Captain
+    2      9.0          WK      Lokesh Rahul   DC       Player
+    3      9.0          WK      Sanju Samson   RR       Player
+    4      9.0         BAT  Yashasvi Jaiswal   RR       Player
+    5      8.0         BAT    Tristan Stubbs   DC       Player
+    6      8.5         ALL Wanindu Hasaranga   RR       Player
+    7      8.5        BOWL    Mitchell Starc   DC Vice-Captain
+    8      8.5        BOWL     Kuldeep Yadav   DC       Player
+    9      8.0         ALL       Riyan Parag   RR       Player
+   10      8.0        BOWL      Jofra Archer   RR       Player
+   11      7.5         ALL       Nitish Rana   RR       Player
+[INFO] Initializing TeamSelector...
+[INFO] Predicting the best team...
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role           Player Team     RoleFlag
+    1      9.0          WK     Lokesh Rahul   DC      Captain
+    2      9.0         ALL       Axar Patel   DC       Player
+    3      9.0         BAT      Virat Kohli  RCB       Player
+    4      8.5          WK      Philip Salt  RCB       Player
+    5      8.0         BAT   Tristan Stubbs   DC       Player
+    6      8.0         BAT    Rajat Patidar  RCB       Player
+    7      8.5        BOWL    Kuldeep Yadav   DC Vice-Captain
+    8      8.5         BAT   Faf du Plessis   DC       Player
+    9      8.5        BOWL   Mitchell Starc   DC       Player
+   10      8.5        BOWL   Josh Hazlewood  RCB       Player
+   11      8.0         ALL Liam Livingstone  RCB       Player
+[INFO] Initializing TeamSelector...
+[INFO] Predicting the best team...
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role            Player Team     RoleFlag
+    1      9.0         BAT       Virat Kohli  RCB      Captain
+    2      8.5          WK       Philip Salt  RCB       Player
+    3      8.5         BAT      Shreyas Iyer PBKS       Player
+    4      8.0         BAT     Rajat Patidar  RCB       Player
+    5      8.5        BOWL    Josh Hazlewood  RCB       Player
+    6      8.5        BOWL  Yuzvendra Chahal PBKS       Player
+    7      8.5        BOWL    Arshdeep Singh PBKS Vice-Captain
+    8      8.0         ALL    Marcus Stoinis PBKS       Player
+    9      8.0         ALL  Liam Livingstone  RCB       Player
+   10      8.0         ALL      Marco Jansen PBKS       Player
+   11      8.0        BOWL Bhuvneshwar Kumar  RCB       Player
+[INFO] Initializing TeamSelector...
+[INFO] Predicting the best team...
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role           Player Team     RoleFlag
+    1      9.0         ALL       Axar Patel   DC      Captain
+    2      9.0          WK     Lokesh Rahul   DC       Player
+    3      9.0         BAT      Virat Kohli  RCB       Player
+    4      8.5          WK      Philip Salt  RCB       Player
+    5      8.0         BAT    Rajat Patidar  RCB       Player
+    6      8.0         BAT   Tristan Stubbs   DC       Player
+    7      8.5         BAT   Faf du Plessis   DC Vice-Captain
+    8      8.5        BOWL   Josh Hazlewood  RCB       Player
+    9      8.5        BOWL   Mitchell Starc   DC       Player
+   10      8.5        BOWL    Kuldeep Yadav   DC       Player
+   11      8.0         ALL Liam Livingstone  RCB       Player
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Predicting the best team...
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role            Player Team     RoleFlag
+    1      9.0         ALL        Axar Patel   DC      Captain
+    2      9.0          WK      Lokesh Rahul   DC       Player
+    3      9.0          WK      Sanju Samson   RR       Player
+    4      9.0         BAT  Yashasvi Jaiswal   RR       Player
+    5      8.0         BAT    Tristan Stubbs   DC       Player
+    6      8.5         ALL Wanindu Hasaranga   RR       Player
+    7      8.5        BOWL    Mitchell Starc   DC Vice-Captain
+    8      8.5        BOWL     Kuldeep Yadav   DC       Player
+    9      8.0         ALL       Riyan Parag   RR       Player
+   10      8.0        BOWL      Jofra Archer   RR       Player
+   11      7.5         ALL       Nitish Rana   RR       Player
+[INFO] Initializing TeamSelector...
+[INFO] Predicting the best team...
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role            Player Team     RoleFlag
+    1      9.0         ALL        Axar Patel   DC      Captain
+    2      9.0          WK      Lokesh Rahul   DC       Player
+    3      9.0          WK      Sanju Samson   RR       Player
+    4      9.0         BAT  Yashasvi Jaiswal   RR       Player
+    5      8.0         BAT    Tristan Stubbs   DC       Player
+    6      8.5         ALL Wanindu Hasaranga   RR       Player
+    7      8.5        BOWL    Mitchell Starc   DC Vice-Captain
+    8      8.5        BOWL     Kuldeep Yadav   DC       Player
+    9      8.0         ALL       Riyan Parag   RR       Player
+   10      8.0        BOWL      Jofra Archer   RR       Player
+   11      7.5         ALL       Nitish Rana   RR       Player
+[INFO] Initializing TeamSelector...
+[INFO] Predicting the best team...
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role             Player Team     RoleFlag
+    1      9.0         ALL       Sunil Narine  KKR      Captain
+    2      9.0         BAT        Virat Kohli  RCB       Player
+    3      9.0        BOWL Varun Chakravarthy  KKR       Player
+    4      8.5         ALL      Andre Russell  KKR       Player
+    5      8.5          WK        Philip Salt  RCB       Player
+    6      8.5        BOWL     Josh Hazlewood  RCB       Player
+    7      8.0         ALL   Liam Livingstone  RCB Vice-Captain
+    8      8.0          WK    Quinton de Kock  KKR       Player
+    9      8.0         BAT      Rajat Patidar  RCB       Player
+   10      8.0         BAT     Venkatesh Iyer  KKR       Player
+   11      8.0        BOWL       Harshit Rana  KKR       Player
+   12      7.5         ALL      Krunal Pandya  RCB       Player
+   13      7.5         ALL    Ramandeep Singh  KKR       Player
+   14      7.5          WK      Jitesh Sharma  RCB       Player
+   15      7.5         BAT          Tim David  RCB       Player
+[INFO] Initializing TeamSelector...
+[INFO] Predicting the best team...
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role             Player Team     RoleFlag
+    1      9.0         ALL         Axar Patel   DC      Captain
+    2      9.0          WK       Lokesh Rahul   DC       Player
+    3      9.0          WK       Sanju Samson   RR       Player
+    4      9.0         BAT   Yashasvi Jaiswal   RR       Player
+    5      8.5         ALL  Wanindu Hasaranga   RR       Player
+    6      8.5        BOWL     Mitchell Starc   DC       Player
+    7      8.5        BOWL      Kuldeep Yadav   DC Vice-Captain
+    8      8.0         ALL        Riyan Parag   RR       Player
+    9      8.0         BAT     Tristan Stubbs   DC       Player
+   10      8.0        BOWL       Jofra Archer   RR       Player
+   11      7.5         ALL        Nitish Rana   RR       Player
+   12      7.5          WK        Dhruv Jurel   RR       Player
+   13      7.5         BAT Jake Fraser-McGurk   DC       Player
+   14      7.5         BAT    Shimron Hetmyer   RR       Player
+   15      7.5        BOWL       Mohit Sharma   DC       Player
+[INFO] Initializing TeamSelector...
+[INFO] Predicting the best team...
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role             Player Team     RoleFlag
+    1      9.0         ALL         Axar Patel   DC      Captain
+    2      9.0          WK       Lokesh Rahul   DC       Player
+    3      9.0          WK       Sanju Samson   RR       Player
+    4      9.0         BAT   Yashasvi Jaiswal   RR       Player
+    5      8.5         ALL  Wanindu Hasaranga   RR       Player
+    6      8.5        BOWL     Mitchell Starc   DC       Player
+    7      8.5        BOWL      Kuldeep Yadav   DC Vice-Captain
+    8      8.0         ALL        Riyan Parag   RR       Player
+    9      8.0         BAT     Tristan Stubbs   DC       Player
+   10      8.0        BOWL       Jofra Archer   RR       Player
+   11      7.5         ALL        Nitish Rana   RR       Player
+   12      7.5          WK        Dhruv Jurel   RR       Backup
+   13      7.5         BAT Jake Fraser-McGurk   DC       Backup
+   14      7.5         BAT    Shimron Hetmyer   RR       Backup
+   15      7.5        BOWL       Mohit Sharma   DC       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Predicting the best team...
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role             Player Team     RoleFlag
+    1      9.0         ALL       Sunil Narine  KKR      Captain
+    2      9.0          WK        Jos Buttler   GT       Player
+    3      9.0         BAT       Shubman Gill   GT       Player
+    4      9.0        BOWL        Rashid-Khan   GT       Player
+    5      9.0        BOWL Varun Chakravarthy  KKR       Player
+    6      8.5         ALL      Andre Russell  KKR       Player
+    7      8.0         BAT     Venkatesh Iyer  KKR Vice-Captain
+    8      8.0         BAT      Sai Sudharsan   GT       Player
+    9      8.0        BOWL     Mohammed Siraj   GT       Player
+   10      8.0        BOWL       Harshit Rana  KKR       Player
+   11      7.5         ALL      Shahrukh Khan   GT       Player
+   12      7.5         ALL    Ramandeep Singh  KKR       Backup
+   13      7.5          WK Rahmanullah Gurbaz  KKR       Backup
+   14      7.5         BAT     Ajinkya Rahane  KKR       Backup
+   15      7.5         BAT        Rinku Singh  KKR       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Predicting the best team...
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role             Player Team     RoleFlag
+    1      9.0         ALL       Sunil Narine  KKR      Captain
+    2      9.0          WK        Jos Buttler   GT       Player
+    3      9.0         BAT       Shubman Gill   GT       Player
+    4      9.0        BOWL        Rashid-Khan   GT       Player
+    5      9.0        BOWL Varun Chakravarthy  KKR       Player
+    6      8.5         ALL      Andre Russell  KKR       Player
+    7      8.0         BAT     Venkatesh Iyer  KKR Vice-Captain
+    8      8.0         BAT      Sai Sudharsan   GT       Player
+    9      8.0        BOWL     Mohammed Siraj   GT       Player
+   10      8.0        BOWL       Harshit Rana  KKR       Player
+   11      7.5         ALL      Shahrukh Khan   GT       Player
+   12      7.5         ALL    Ramandeep Singh  KKR       Backup
+   13      7.5          WK Rahmanullah Gurbaz  KKR       Backup
+   14      7.5         BAT     Ajinkya Rahane  KKR       Backup
+   15      7.5         BAT        Rinku Singh  KKR       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Predicting the best team...
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role                     Player Team     RoleFlag
+    1      9.0         ALL               Sunil Narine  KKR      Captain
+    2      9.0          WK                Jos Buttler   GT       Player
+    3      7.5         BAT             Ajinkya Rahane  KKR       Player
+    4      8.0         BAT             Venkatesh Iyer  KKR       Player
+    5      9.0         BAT               Shubman Gill   GT       Player
+    6      8.0         BAT              Sai Sudharsan   GT       Player
+    7      7.5        BOWL            Prasidh Krishna   GT Vice-Captain
+    8      7.0        BOWL Ravisrinivasan Sai Kishore   GT       Player
+    9      9.0        BOWL         Varun Chakravarthy  KKR       Player
+   10      8.5         ALL              Andre Russell  KKR       Player
+   11      7.0         ALL                  Moeen Ali  KKR       Player
+   12      7.0         ALL              Rahul Tewatia   GT       Backup
+   13      7.5         ALL              Shahrukh Khan   GT       Backup
+   14      7.0         ALL          Washington Sundar   GT       Backup
+   15      7.5          WK         Rahmanullah Gurbaz  KKR       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Predicting the best team...
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role                     Player Team     RoleFlag
+    1      9.0         ALL               Sunil Narine  KKR      Captain
+    2      9.0          WK                Jos Buttler   GT       Player
+    3      7.5         BAT             Ajinkya Rahane  KKR       Player
+    4      8.0         BAT             Venkatesh Iyer  KKR       Player
+    5      9.0         BAT               Shubman Gill   GT       Player
+    6      8.0         BAT              Sai Sudharsan   GT       Player
+    7      7.5        BOWL            Prasidh Krishna   GT Vice-Captain
+    8      7.0        BOWL Ravisrinivasan Sai Kishore   GT       Player
+    9      9.0        BOWL         Varun Chakravarthy  KKR       Player
+   10      8.5         ALL              Andre Russell  KKR       Player
+   11      7.0         ALL                  Moeen Ali  KKR       Player
+   12      7.0         ALL              Rahul Tewatia   GT       Backup
+   13      7.5         ALL              Shahrukh Khan   GT       Backup
+   14      7.0         ALL          Washington Sundar   GT       Backup
+   15      7.5          WK         Rahmanullah Gurbaz  KKR       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Predicting the best team...
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role                     Player Team     RoleFlag
+    1      9.0         ALL               Sunil Narine  KKR      Captain
+    2      9.0          WK                Jos Buttler   GT Vice-Captain
+    3      7.5         BAT             Ajinkya Rahane  KKR       Player
+    4      8.0         BAT             Venkatesh Iyer  KKR       Player
+    5      9.0         BAT               Shubman Gill   GT       Player
+    6      8.0         BAT              Sai Sudharsan   GT       Player
+    7      7.5        BOWL            Prasidh Krishna   GT       Player
+    8      7.0        BOWL Ravisrinivasan Sai Kishore   GT       Player
+    9      9.0        BOWL         Varun Chakravarthy  KKR       Player
+   10      8.5         ALL              Andre Russell  KKR       Player
+   11      7.0         ALL                  Moeen Ali  KKR       Player
+   12      7.0         ALL              Rahul Tewatia   GT       Backup
+   13      7.5         ALL              Shahrukh Khan   GT       Backup
+   14      7.0         ALL          Washington Sundar   GT       Backup
+   15      7.5          WK         Rahmanullah Gurbaz  KKR       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Predicting the best team...
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role                     Player Team     RoleFlag
+    1      9.0         ALL               Sunil Narine  KKR      Captain
+    2      9.0          WK                Jos Buttler   GT Vice-Captain
+    3      7.5         BAT             Ajinkya Rahane  KKR       Player
+    4      8.0         BAT             Venkatesh Iyer  KKR       Player
+    5      9.0         BAT               Shubman Gill   GT       Player
+    6      8.0         BAT              Sai Sudharsan   GT       Player
+    7      7.5        BOWL            Prasidh Krishna   GT       Player
+    8      7.0        BOWL Ravisrinivasan Sai Kishore   GT       Player
+    9      9.0        BOWL         Varun Chakravarthy  KKR       Player
+   10      8.5         ALL              Andre Russell  KKR       Player
+   11      7.0         ALL                  Moeen Ali  KKR       Player
+   12      7.0         ALL              Rahul Tewatia   GT       Backup
+   13      7.5         ALL              Shahrukh Khan   GT       Backup
+   14      7.0         ALL          Washington Sundar   GT       Backup
+   15      7.5          WK         Rahmanullah Gurbaz  KKR       Backup
+[INFO] Initializing TeamSelector...
+[ERROR] An error occurred: [ERROR] Failed to initialize TeamSelector: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+[INFO] Initializing TeamSelector...
+[INFO] Predicting the best team...
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role               Player Team     RoleFlag
+    1      6.5         BAT Angkrish Raghuvanshi  KKR       Player
+    2      9.0        BOWL   Varun Chakravarthy  KKR       Player
+    3      8.0         BAT       Venkatesh Iyer  KKR       Player
+    4      9.0         ALL         Sunil Narine  KKR Vice-Captain
+    5      7.5         BAT       Ajinkya Rahane  KKR       Player
+    6      8.0        BOWL         Harshit Rana  KKR       Player
+    7      7.5          WK   Rahmanullah Gurbaz  KKR       Player
+    8      6.5        BOWL      Spencer Johnson  KKR       Player
+    9      8.0        BOWL        Anrich Nortje  KKR       Player
+   10      7.0         BAT        Rovman Powell  KKR       Player
+   11      7.5         BAT          Rinku Singh  KKR       Player
+[INFO] Initializing TeamSelector...
+[ERROR] An error occurred: [ERROR] Failed to initialize TeamSelector: [Errno 2] No such file or directory: '/data/MATCH_DATA_COMBINED_DATASET.xlsx'
+[INFO] Initializing TeamSelector...
+[INFO] Predicting the best team...
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role                     Player Team     RoleFlag
+    1      9.0         ALL               Sunil Narine  KKR      Captain
+    2      9.0          WK                Jos Buttler   GT Vice-Captain
+    3      7.5         BAT             Ajinkya Rahane  KKR       Player
+    4      8.0         BAT             Venkatesh Iyer  KKR       Player
+    5      9.0         BAT               Shubman Gill   GT       Player
+    6      8.0         BAT              Sai Sudharsan   GT       Player
+    7      7.5        BOWL            Prasidh Krishna   GT       Player
+    8      7.0        BOWL Ravisrinivasan Sai Kishore   GT       Player
+    9      9.0        BOWL         Varun Chakravarthy  KKR       Player
+   10      8.5         ALL              Andre Russell  KKR       Player
+   11      7.0         ALL                  Moeen Ali  KKR       Player
+   12      7.0         ALL              Rahul Tewatia   GT       Backup
+   13      7.5         ALL              Shahrukh Khan   GT       Backup
+   14      7.0         ALL          Washington Sundar   GT       Backup
+   15      7.5          WK         Rahmanullah Gurbaz  KKR       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Predicting the best team...
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role                     Player Team     RoleFlag
+    1      9.0         ALL               Sunil Narine  KKR      Captain
+    2      9.0          WK                Jos Buttler   GT Vice-Captain
+    3      7.5         BAT             Ajinkya Rahane  KKR       Player
+    4      8.0         BAT             Venkatesh Iyer  KKR       Player
+    5      9.0         BAT               Shubman Gill   GT       Player
+    6      8.0         BAT              Sai Sudharsan   GT       Player
+    7      7.5        BOWL            Prasidh Krishna   GT       Player
+    8      7.0        BOWL Ravisrinivasan Sai Kishore   GT       Player
+    9      9.0        BOWL         Varun Chakravarthy  KKR       Player
+   10      8.5         ALL              Andre Russell  KKR       Player
+   11      7.0         ALL                  Moeen Ali  KKR       Player
+   12      7.0         ALL              Rahul Tewatia   GT       Backup
+   13      7.5         ALL              Shahrukh Khan   GT       Backup
+   14      7.0         ALL          Washington Sundar   GT       Backup
+   15      7.5          WK         Rahmanullah Gurbaz  KKR       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[ERROR] An error occurred: cannot access local variable 'logging' where it is not associated with a value
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 39...
+[INFO] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'IsPlaying', 'LineupOrder']
+[INFO] Unique Players in squad_df: ['Sunil Narine' 'Andre Russell' 'Moeen Ali' 'Rahul Tewatia'
+ 'Shahrukh Khan' 'Washington Sundar' 'Ramandeep Singh' 'Jos Buttler'
+ 'Rahmanullah Gurbaz' 'Ajinkya Rahane' 'Venkatesh Iyer' 'Rinku Singh'
+ 'Shubman Gill' 'Sherfane Rutherford' 'Sai Sudharsan' 'Prasidh Krishna'
+ 'Rashid-Khan' 'Mohammed Siraj' 'Ravisrinivasan Sai Kishore'
+ 'Varun Chakravarthy' 'Vaibhav Arora' 'Harshit Rana']
+[INFO] Unique Teams in squad_df: ['KKR' 'GT']
+[INFO] Captain selected from credits dataset C=1: Sunil Narine (KKR)
+[INFO] Vice-Captain selected from credits dataset VC=1: Jos Buttler (GT)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 1, 'bat': 4, 'all': 3, 'bowl': 3}
+[INFO] Players from each team: {'KKR': 6, 'GT': 5}
+[INFO] Total credits used: 89.5
+[INFO] Final 11: ['Sunil Narine', 'Jos Buttler', 'Ajinkya Rahane', 'Venkatesh Iyer', 'Shubman Gill', 'Sai Sudharsan', 'Prasidh Krishna', 'Ravisrinivasan Sai Kishore', 'Varun Chakravarthy', 'Andre Russell', 'Moeen Ali']
+[INFO] Backups: ['Rahul Tewatia', 'Shahrukh Khan', 'Washington Sundar', 'Rahmanullah Gurbaz']
+[INFO] Captain: ['Sunil Narine']
+[INFO] Vice-Captain: ['Jos Buttler']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role                     Player Team     RoleFlag
+    1      9.0         ALL               Sunil Narine  KKR      Captain
+    2      9.0          WK                Jos Buttler   GT Vice-Captain
+    3      7.5         BAT             Ajinkya Rahane  KKR       Player
+    4      8.0         BAT             Venkatesh Iyer  KKR       Player
+    5      9.0         BAT               Shubman Gill   GT       Player
+    6      8.0         BAT              Sai Sudharsan   GT       Player
+    7      7.5        BOWL            Prasidh Krishna   GT       Player
+    8      7.0        BOWL Ravisrinivasan Sai Kishore   GT       Player
+    9      9.0        BOWL         Varun Chakravarthy  KKR       Player
+   10      8.5         ALL              Andre Russell  KKR       Player
+   11      7.0         ALL                  Moeen Ali  KKR       Player
+   12      7.0         ALL              Rahul Tewatia   GT       Backup
+   13      7.5         ALL              Shahrukh Khan   GT       Backup
+   14      7.0         ALL          Washington Sundar   GT       Backup
+   15      7.5          WK         Rahmanullah Gurbaz  KKR       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 39...
+[DEBUG] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'IsPlaying', 'LineupOrder']
+[DEBUG] Unique Players in squad_df: ['Sunil Narine' 'Andre Russell' 'Moeen Ali' 'Rahul Tewatia'
+ 'Shahrukh Khan' 'Washington Sundar' 'Ramandeep Singh' 'Jos Buttler'
+ 'Rahmanullah Gurbaz' 'Ajinkya Rahane' 'Venkatesh Iyer' 'Rinku Singh'
+ 'Shubman Gill' 'Sherfane Rutherford' 'Sai Sudharsan' 'Prasidh Krishna'
+ 'Rashid-Khan' 'Mohammed Siraj' 'Ravisrinivasan Sai Kishore'
+ 'Varun Chakravarthy' 'Vaibhav Arora' 'Harshit Rana']
+[DEBUG] Unique Teams in squad_df: ['KKR' 'GT']
+[DEBUG] Captain selected from credits dataset C=1: Sunil Narine (KKR)
+[DEBUG] Vice-Captain selected from credits dataset VC=1: Jos Buttler (GT)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 1, 'bat': 4, 'all': 3, 'bowl': 3}
+[INFO] Players from each team: {'KKR': 6, 'GT': 5}
+[INFO] Total credits used: 89.5
+[INFO] Final 11: ['Sunil Narine', 'Jos Buttler', 'Ajinkya Rahane', 'Venkatesh Iyer', 'Shubman Gill', 'Sai Sudharsan', 'Prasidh Krishna', 'Ravisrinivasan Sai Kishore', 'Varun Chakravarthy', 'Andre Russell', 'Moeen Ali']
+[INFO] Backups: ['Rahul Tewatia', 'Shahrukh Khan', 'Washington Sundar', 'Rahmanullah Gurbaz']
+[INFO] Captain: ['Sunil Narine']
+[INFO] Vice-Captain: ['Jos Buttler']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role                     Player Team     RoleFlag
+    1      9.0         ALL               Sunil Narine  KKR      Captain
+    2      9.0          WK                Jos Buttler   GT Vice-Captain
+    3      7.5         BAT             Ajinkya Rahane  KKR       Player
+    4      8.0         BAT             Venkatesh Iyer  KKR       Player
+    5      9.0         BAT               Shubman Gill   GT       Player
+    6      8.0         BAT              Sai Sudharsan   GT       Player
+    7      7.5        BOWL            Prasidh Krishna   GT       Player
+    8      7.0        BOWL Ravisrinivasan Sai Kishore   GT       Player
+    9      9.0        BOWL         Varun Chakravarthy  KKR       Player
+   10      8.5         ALL              Andre Russell  KKR       Player
+   11      7.0         ALL                  Moeen Ali  KKR       Player
+   12      7.0         ALL              Rahul Tewatia   GT       Backup
+   13      7.5         ALL              Shahrukh Khan   GT       Backup
+   14      7.0         ALL          Washington Sundar   GT       Backup
+   15      7.5          WK         Rahmanullah Gurbaz  KKR       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 39...
+[DEBUG] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'IsPlaying', 'LineupOrder']
+[DEBUG] Unique Players in squad_df: ['Sunil Narine' 'Andre Russell' 'Moeen Ali' 'Rahul Tewatia'
+ 'Shahrukh Khan' 'Washington Sundar' 'Ramandeep Singh' 'Jos Buttler'
+ 'Rahmanullah Gurbaz' 'Ajinkya Rahane' 'Venkatesh Iyer' 'Rinku Singh'
+ 'Shubman Gill' 'Sherfane Rutherford' 'Sai Sudharsan' 'Prasidh Krishna'
+ 'Rashid-Khan' 'Mohammed Siraj' 'Ravisrinivasan Sai Kishore'
+ 'Varun Chakravarthy' 'Vaibhav Arora' 'Harshit Rana']
+[DEBUG] Unique Teams in squad_df: ['KKR' 'GT']
+[DEBUG] Captain selected from credits dataset C=1: Sunil Narine (KKR)
+[DEBUG] Vice-Captain selected from credits dataset VC=1: Jos Buttler (GT)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 1, 'bat': 4, 'all': 3, 'bowl': 3}
+[INFO] Players from each team: {'KKR': 6, 'GT': 5}
+[INFO] Total credits used: 89.5
+[INFO] Final 11: ['Sunil Narine', 'Jos Buttler', 'Ajinkya Rahane', 'Venkatesh Iyer', 'Shubman Gill', 'Sai Sudharsan', 'Prasidh Krishna', 'Ravisrinivasan Sai Kishore', 'Varun Chakravarthy', 'Andre Russell', 'Moeen Ali']
+[INFO] Backups: ['Rahul Tewatia', 'Shahrukh Khan', 'Washington Sundar', 'Rahmanullah Gurbaz']
+[INFO] Captain: ['Sunil Narine']
+[INFO] Vice-Captain: ['Jos Buttler']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role                     Player Team     RoleFlag
+    1      9.0         ALL               Sunil Narine  KKR      Captain
+    2      9.0          WK                Jos Buttler   GT Vice-Captain
+    3      7.5         BAT             Ajinkya Rahane  KKR       Player
+    4      8.0         BAT             Venkatesh Iyer  KKR       Player
+    5      9.0         BAT               Shubman Gill   GT       Player
+    6      8.0         BAT              Sai Sudharsan   GT       Player
+    7      7.5        BOWL            Prasidh Krishna   GT       Player
+    8      7.0        BOWL Ravisrinivasan Sai Kishore   GT       Player
+    9      9.0        BOWL         Varun Chakravarthy  KKR       Player
+   10      8.5         ALL              Andre Russell  KKR       Player
+   11      7.0         ALL                  Moeen Ali  KKR       Player
+   12      7.0         ALL              Rahul Tewatia   GT       Backup
+   13      7.5         ALL              Shahrukh Khan   GT       Backup
+   14      7.0         ALL          Washington Sundar   GT       Backup
+   15      7.5          WK         Rahmanullah Gurbaz  KKR       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 39...
+[DEBUG] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'IsPlaying', 'LineupOrder']
+[DEBUG] Unique Players in squad_df: ['Sunil Narine' 'Andre Russell' 'Moeen Ali' 'Rahul Tewatia'
+ 'Shahrukh Khan' 'Washington Sundar' 'Ramandeep Singh' 'Jos Buttler'
+ 'Rahmanullah Gurbaz' 'Ajinkya Rahane' 'Venkatesh Iyer' 'Rinku Singh'
+ 'Shubman Gill' 'Sherfane Rutherford' 'Sai Sudharsan' 'Prasidh Krishna'
+ 'Rashid-Khan' 'Mohammed Siraj' 'Ravisrinivasan Sai Kishore'
+ 'Varun Chakravarthy' 'Vaibhav Arora' 'Harshit Rana']
+[DEBUG] Unique Teams in squad_df: ['KKR' 'GT']
+[DEBUG] Captain selected from credits dataset C=1: Sunil Narine (KKR)
+[DEBUG] Vice-Captain selected from credits dataset VC=1: Jos Buttler (GT)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 1, 'bat': 4, 'all': 3, 'bowl': 3}
+[INFO] Players from each team: {'KKR': 6, 'GT': 5}
+[INFO] Total credits used: 89.5
+[INFO] Final 11: ['Sunil Narine', 'Jos Buttler', 'Ajinkya Rahane', 'Venkatesh Iyer', 'Shubman Gill', 'Sai Sudharsan', 'Prasidh Krishna', 'Ravisrinivasan Sai Kishore', 'Varun Chakravarthy', 'Andre Russell', 'Moeen Ali']
+[INFO] Backups: ['Rahul Tewatia', 'Shahrukh Khan', 'Washington Sundar', 'Rahmanullah Gurbaz']
+[INFO] Captain: ['Sunil Narine']
+[INFO] Vice-Captain: ['Jos Buttler']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role                     Player Team     RoleFlag
+    1      9.0         ALL               Sunil Narine  KKR      Captain
+    2      9.0          WK                Jos Buttler   GT Vice-Captain
+    3      7.5         BAT             Ajinkya Rahane  KKR       Player
+    4      8.0         BAT             Venkatesh Iyer  KKR       Player
+    5      9.0         BAT               Shubman Gill   GT       Player
+    6      8.0         BAT              Sai Sudharsan   GT       Player
+    7      7.5        BOWL            Prasidh Krishna   GT       Player
+    8      7.0        BOWL Ravisrinivasan Sai Kishore   GT       Player
+    9      9.0        BOWL         Varun Chakravarthy  KKR       Player
+   10      8.5         ALL              Andre Russell  KKR       Player
+   11      7.0         ALL                  Moeen Ali  KKR       Player
+   12      7.0         ALL              Rahul Tewatia   GT       Backup
+   13      7.5         ALL              Shahrukh Khan   GT       Backup
+   14      7.0         ALL          Washington Sundar   GT       Backup
+   15      7.5          WK         Rahmanullah Gurbaz  KKR       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 39...
+[DEBUG] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'IsPlaying', 'LineupOrder']
+[DEBUG] Unique Players in squad_df: ['Sunil Narine' 'Andre Russell' 'Moeen Ali' 'Rahul Tewatia'
+ 'Shahrukh Khan' 'Washington Sundar' 'Ramandeep Singh' 'Jos Buttler'
+ 'Rahmanullah Gurbaz' 'Ajinkya Rahane' 'Venkatesh Iyer' 'Rinku Singh'
+ 'Shubman Gill' 'Sherfane Rutherford' 'Sai Sudharsan' 'Prasidh Krishna'
+ 'Rashid-Khan' 'Mohammed Siraj' 'Ravisrinivasan Sai Kishore'
+ 'Varun Chakravarthy' 'Vaibhav Arora' 'Harshit Rana']
+[DEBUG] Unique Teams in squad_df: ['KKR' 'GT']
+[DEBUG] Captain selected from credits dataset C=1: Sunil Narine (KKR)
+[DEBUG] Vice-Captain selected from credits dataset VC=1: Jos Buttler (GT)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 1, 'bat': 4, 'all': 3, 'bowl': 3}
+[INFO] Players from each team: {'KKR': 6, 'GT': 5}
+[INFO] Total credits used: 89.5
+[INFO] Final 11: ['Sunil Narine', 'Jos Buttler', 'Ajinkya Rahane', 'Venkatesh Iyer', 'Shubman Gill', 'Sai Sudharsan', 'Prasidh Krishna', 'Ravisrinivasan Sai Kishore', 'Varun Chakravarthy', 'Andre Russell', 'Moeen Ali']
+[INFO] Backups: ['Rahul Tewatia', 'Shahrukh Khan', 'Washington Sundar', 'Rahmanullah Gurbaz']
+[INFO] Captain: ['Sunil Narine']
+[INFO] Vice-Captain: ['Jos Buttler']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role                     Player Team     RoleFlag
+    1      9.0         ALL               Sunil Narine  KKR      Captain
+    2      9.0          WK                Jos Buttler   GT Vice-Captain
+    3      7.5         BAT             Ajinkya Rahane  KKR       Player
+    4      8.0         BAT             Venkatesh Iyer  KKR       Player
+    5      9.0         BAT               Shubman Gill   GT       Player
+    6      8.0         BAT              Sai Sudharsan   GT       Player
+    7      7.5        BOWL            Prasidh Krishna   GT       Player
+    8      7.0        BOWL Ravisrinivasan Sai Kishore   GT       Player
+    9      9.0        BOWL         Varun Chakravarthy  KKR       Player
+   10      8.5         ALL              Andre Russell  KKR       Player
+   11      7.0         ALL                  Moeen Ali  KKR       Player
+   12      7.0         ALL              Rahul Tewatia   GT       Backup
+   13      7.5         ALL              Shahrukh Khan   GT       Backup
+   14      7.0         ALL          Washington Sundar   GT       Backup
+   15      7.5          WK         Rahmanullah Gurbaz  KKR       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 39...
+[DEBUG] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'IsPlaying', 'LineupOrder']
+[DEBUG] Unique Players in squad_df: ['Sunil Narine' 'Andre Russell' 'Moeen Ali' 'Rahul Tewatia'
+ 'Shahrukh Khan' 'Washington Sundar' 'Ramandeep Singh' 'Jos Buttler'
+ 'Rahmanullah Gurbaz' 'Ajinkya Rahane' 'Venkatesh Iyer' 'Rinku Singh'
+ 'Shubman Gill' 'Sherfane Rutherford' 'Sai Sudharsan' 'Prasidh Krishna'
+ 'Rashid-Khan' 'Mohammed Siraj' 'Ravisrinivasan Sai Kishore'
+ 'Varun Chakravarthy' 'Vaibhav Arora' 'Harshit Rana']
+[DEBUG] Unique Teams in squad_df: ['KKR' 'GT']
+[DEBUG] Captain selected from credits dataset C=1: Sunil Narine (KKR)
+[DEBUG] Vice-Captain selected from credits dataset VC=1: Jos Buttler (GT)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 1, 'bat': 4, 'all': 3, 'bowl': 3}
+[INFO] Players from each team: {'KKR': 6, 'GT': 5}
+[INFO] Total credits used: 89.5
+[INFO] Final 11: ['Sunil Narine', 'Jos Buttler', 'Ajinkya Rahane', 'Venkatesh Iyer', 'Shubman Gill', 'Sai Sudharsan', 'Prasidh Krishna', 'Ravisrinivasan Sai Kishore', 'Varun Chakravarthy', 'Andre Russell', 'Moeen Ali']
+[INFO] Backups: ['Rahul Tewatia', 'Shahrukh Khan', 'Washington Sundar', 'Rahmanullah Gurbaz']
+[INFO] Captain: ['Sunil Narine']
+[INFO] Vice-Captain: ['Jos Buttler']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role                     Player Team     RoleFlag
+    1      9.0         ALL               Sunil Narine  KKR      Captain
+    2      9.0          WK                Jos Buttler   GT Vice-Captain
+    3      7.5         BAT             Ajinkya Rahane  KKR       Player
+    4      8.0         BAT             Venkatesh Iyer  KKR       Player
+    5      9.0         BAT               Shubman Gill   GT       Player
+    6      8.0         BAT              Sai Sudharsan   GT       Player
+    7      7.5        BOWL            Prasidh Krishna   GT       Player
+    8      7.0        BOWL Ravisrinivasan Sai Kishore   GT       Player
+    9      9.0        BOWL         Varun Chakravarthy  KKR       Player
+   10      8.5         ALL              Andre Russell  KKR       Player
+   11      7.0         ALL                  Moeen Ali  KKR       Player
+   12      7.0         ALL              Rahul Tewatia   GT       Backup
+   13      7.5         ALL              Shahrukh Khan   GT       Backup
+   14      7.0         ALL          Washington Sundar   GT       Backup
+   15      7.5          WK         Rahmanullah Gurbaz  KKR       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[ERROR] An error occurred: [ERROR] Failed to initialize TeamSelector: [Errno 2] No such file or directory: '/data/MATCH_DATA_COMBINED_DATASET.xlsx'
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 39...
+[DEBUG] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'IsPlaying', 'LineupOrder']
+[DEBUG] Unique Players in squad_df: ['Sunil Narine' 'Andre Russell' 'Moeen Ali' 'Rahul Tewatia'
+ 'Shahrukh Khan' 'Washington Sundar' 'Ramandeep Singh' 'Jos Buttler'
+ 'Rahmanullah Gurbaz' 'Ajinkya Rahane' 'Venkatesh Iyer' 'Rinku Singh'
+ 'Shubman Gill' 'Sherfane Rutherford' 'Sai Sudharsan' 'Prasidh Krishna'
+ 'Rashid-Khan' 'Mohammed Siraj' 'Ravisrinivasan Sai Kishore'
+ 'Varun Chakravarthy' 'Vaibhav Arora' 'Harshit Rana']
+[DEBUG] Unique Teams in squad_df: ['KKR' 'GT']
+[DEBUG] Captain selected from credits dataset C=1: Sunil Narine (KKR)
+[DEBUG] Vice-Captain selected from credits dataset VC=1: Jos Buttler (GT)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 1, 'bat': 4, 'all': 3, 'bowl': 3}
+[INFO] Players from each team: {'KKR': 6, 'GT': 5}
+[INFO] Total credits used: 89.5
+[INFO] Final 11: ['Sunil Narine', 'Jos Buttler', 'Ajinkya Rahane', 'Venkatesh Iyer', 'Shubman Gill', 'Sai Sudharsan', 'Prasidh Krishna', 'Ravisrinivasan Sai Kishore', 'Varun Chakravarthy', 'Andre Russell', 'Moeen Ali']
+[INFO] Backups: ['Rahul Tewatia', 'Shahrukh Khan', 'Washington Sundar', 'Rahmanullah Gurbaz']
+[INFO] Captain: ['Sunil Narine']
+[INFO] Vice-Captain: ['Jos Buttler']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role                     Player Team     RoleFlag
+    1      9.0         ALL               Sunil Narine  KKR      Captain
+    2      9.0          WK                Jos Buttler   GT Vice-Captain
+    3      7.5         BAT             Ajinkya Rahane  KKR       Player
+    4      8.0         BAT             Venkatesh Iyer  KKR       Player
+    5      9.0         BAT               Shubman Gill   GT       Player
+    6      8.0         BAT              Sai Sudharsan   GT       Player
+    7      7.5        BOWL            Prasidh Krishna   GT       Player
+    8      7.0        BOWL Ravisrinivasan Sai Kishore   GT       Player
+    9      9.0        BOWL         Varun Chakravarthy  KKR       Player
+   10      8.5         ALL              Andre Russell  KKR       Player
+   11      7.0         ALL                  Moeen Ali  KKR       Player
+   12      7.0         ALL              Rahul Tewatia   GT       Backup
+   13      7.5         ALL              Shahrukh Khan   GT       Backup
+   14      7.0         ALL          Washington Sundar   GT       Backup
+   15      7.5          WK         Rahmanullah Gurbaz  KKR       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 1...
+[DEBUG] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'IsPlaying', 'LineupOrder']
+[DEBUG] Unique Players in squad_df: ['Krunal Pandya' 'Liam Livingstone' 'Ramandeep Singh' 'Andre Russell'
+ 'Sunil Narine' 'Jitesh Sharma' 'Philip Salt' 'Quinton de Kock'
+ 'Tim David' 'Rajat Patidar' 'Virat Kohli' 'Angkrish Raghuvanshi'
+ 'Rinku Singh' 'Venkatesh Iyer' 'Ajinkya Rahane' 'Suyash Sharma'
+ 'Rasikh Salam' 'Yash Dayal' 'Josh Hazlewood' 'Harshit Rana'
+ 'Spencer Johnson' 'Varun Chakravarthy']
+[DEBUG] Unique Teams in squad_df: ['RCB' 'KKR']
+[DEBUG] Captain selected from credits dataset C=1: Sunil Narine (KKR)
+[DEBUG] Vice-Captain selected from credits dataset VC=1: Virat Kohli (RCB)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 1, 'bat': 5, 'all': 3, 'bowl': 2}
+[INFO] Players from each team: {'RCB': 6, 'KKR': 5}
+[INFO] Total credits used: 89.5
+[INFO] Final 11: ['Sunil Narine', 'Philip Salt', 'Rajat Patidar', 'Virat Kohli', 'Angkrish Raghuvanshi', 'Venkatesh Iyer', 'Ajinkya Rahane', 'Josh Hazlewood', 'Varun Chakravarthy', 'Krunal Pandya', 'Liam Livingstone']
+[INFO] Backups: ['Andre Russell', 'Jitesh Sharma', 'Quinton de Kock', 'Tim David']
+[INFO] Captain: ['Sunil Narine']
+[INFO] Vice-Captain: ['Virat Kohli']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role               Player Team     RoleFlag
+    1      9.0         ALL         Sunil Narine  KKR      Captain
+    2      8.5          WK          Philip Salt  RCB       Player
+    3      8.0         BAT        Rajat Patidar  RCB       Player
+    4      9.0         BAT          Virat Kohli  RCB Vice-Captain
+    5      6.5         BAT Angkrish Raghuvanshi  KKR       Player
+    6      8.0         BAT       Venkatesh Iyer  KKR       Player
+    7      7.5         BAT       Ajinkya Rahane  KKR       Player
+    8      8.5        BOWL       Josh Hazlewood  RCB       Player
+    9      9.0        BOWL   Varun Chakravarthy  KKR       Player
+   10      7.5         ALL        Krunal Pandya  RCB       Player
+   11      8.0         ALL     Liam Livingstone  RCB       Player
+   12      8.5         ALL        Andre Russell  KKR       Backup
+   13      7.5          WK        Jitesh Sharma  RCB       Backup
+   14      8.0          WK      Quinton de Kock  KKR       Backup
+   15      7.5         BAT            Tim David  RCB       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 40...
+[WARNING] Squad data for match ID 40 not found: [ERROR] Failed to load squad data for match ID 40: Sheet 'Match_40' not found in squad data.
+[INFO] Falling back to best 11 + 4 backups from specified home and away teams.
+[DEBUG] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'Priority', 'Home', 'Away', 'Bat', 'Bowl', 'C', 'VC', 'Runs', 'Balls Faced', 'Fours', 'Sixes', 'Strike Rate', 'Overs', 'Runs Conceded', 'Wickets', 'Economy', 'Catches', 'Stumpings', 'Run Outs (Direct)', 'Run Outs (Assist)', 'Maidens', 'Runs Given', 'IsPlaying', 'LineupOrder']
+[DEBUG] Unique Players in squad_df: ['Madhav Tiwari' 'Manvanth Kumar L' 'Tripurana Vijay' 'Vipraj Nigam'
+ 'Tristan Stubbs' 'Abishek Porel' 'Ashutosh Sharma' 'Donovan Ferreira'
+ 'Sameer Rizvi' 'Jake Fraser-McGurk' 'Ajay Mandal' 'Darshan Nalkande'
+ 'T Natarajan' 'Mukesh Kumar' 'Kuldeep Yadav' 'Mohit Sharma'
+ 'Lokesh Rahul' 'Axar Patel' 'Dushmantha Chameera' 'Karun Nair'
+ 'Faf du Plessis' 'Mitchell Starc' 'Digvesh Singh' 'Prince Yadav'
+ 'Shamar Joseph' 'Mayank Yadav' 'Arshin Kulkarni' 'Akash Deep'
+ 'Akash Singh' 'Yuvraj Chaudhary' 'Ravi Bishnoi' 'Abdul Samad'
+ 'Shahbaz Ahmed' 'Rajvardhan Hangargekar' 'Ayush Badoni' 'Aryan Juyal'
+ 'Mohsin Khan' 'Matthew Breetzke' 'Manimaran Siddharth' 'Rishabh Pant'
+ 'Himmat Singh' 'Aiden Markram' 'Avesh Khan' 'Nicholas Pooran'
+ 'David Miller' 'Mitchell Marsh']
+[DEBUG] Unique Teams in squad_df: ['DC' 'LSG']
+[DEBUG] Captain selected from credits dataset C=1: Lokesh Rahul (DC)
+[DEBUG] Vice-Captain selected from credits dataset VC=1: Axar Patel (DC)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 2, 'bat': 2, 'all': 3, 'bowl': 4}
+[INFO] Players from each team: {'DC': 7, 'LSG': 4}
+[INFO] Total credits used: 87.0
+[INFO] Final 11: ['Tristan Stubbs', 'Kuldeep Yadav', 'Lokesh Rahul', 'Axar Patel', 'Mitchell Starc', 'Aiden Markram', 'Nicholas Pooran', 'Mitchell Marsh', 'Donovan Ferreira', 'T Natarajan', 'Digvesh Singh']
+[INFO] Backups: ['Mukesh Kumar', 'Mohit Sharma', 'Dushmantha Chameera', 'Karun Nair']
+[INFO] Captain: ['Lokesh Rahul']
+[INFO] Vice-Captain: ['Axar Patel']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role              Player Team     RoleFlag
+    1      8.0         BAT      Tristan Stubbs   DC       Player
+    2      8.5        BOWL       Kuldeep Yadav   DC       Player
+    3      9.0          WK        Lokesh Rahul   DC      Captain
+    4      9.0         ALL          Axar Patel   DC Vice-Captain
+    5      8.5        BOWL      Mitchell Starc   DC       Player
+    6      8.0         ALL       Aiden Markram  LSG       Player
+    7      8.5          WK     Nicholas Pooran  LSG       Player
+    8      8.0         BAT      Mitchell Marsh  LSG       Player
+    9      7.0         ALL    Donovan Ferreira   DC       Player
+   10      7.5        BOWL         T Natarajan   DC       Player
+   11      5.0        BOWL       Digvesh Singh  LSG       Player
+   12      7.0        BOWL        Mukesh Kumar   DC       Backup
+   13      7.5        BOWL        Mohit Sharma   DC       Backup
+   14      7.0        BOWL Dushmantha Chameera   DC       Backup
+   15      7.0         BAT          Karun Nair   DC       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 40...
+[DEBUG] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'IsPlaying', 'LineupOrder']
+[DEBUG] Unique Players in squad_df: ['Axar Patel' 'Vipraj Nigam' 'Aiden Markram' 'Abishek Porel'
+ 'Lokesh Rahul' 'Nicholas Pooran' 'Rishabh Pant' 'Ashutosh Sharma'
+ 'Karun Nair' 'Tristan Stubbs' 'Abdul Samad' 'David Miller'
+ 'Mitchell Marsh' 'Dushmantha Chameera' 'Kuldeep Yadav' 'Mitchell Starc'
+ 'Mukesh Kumar' 'Avesh Khan' 'Digvesh Singh' 'Prince Yadav' 'Ravi Bishnoi'
+ 'Shardul Thakur']
+[DEBUG] Unique Teams in squad_df: ['DC' 'LSG']
+[DEBUG] Captain selected from credits dataset C=1: Axar Patel (DC)
+[DEBUG] Vice-Captain selected from credits dataset VC=1: Lokesh Rahul (DC)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 3, 'bat': 4, 'all': 2, 'bowl': 2}
+[INFO] Players from each team: {'DC': 6, 'LSG': 5}
+[INFO] Total credits used: 90.0
+[INFO] Final 11: ['Axar Patel', 'Aiden Markram', 'Lokesh Rahul', 'Nicholas Pooran', 'Tristan Stubbs', 'Mitchell Marsh', 'Kuldeep Yadav', 'Mitchell Starc', 'Rishabh Pant', 'Karun Nair', 'Abdul Samad']
+[INFO] Backups: ['David Miller', 'Dushmantha Chameera', 'Mukesh Kumar', 'Avesh Khan']
+[INFO] Captain: ['Axar Patel']
+[INFO] Vice-Captain: ['Lokesh Rahul']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role              Player Team     RoleFlag
+    1      9.0         ALL          Axar Patel   DC      Captain
+    2      8.0         ALL       Aiden Markram  LSG       Player
+    3      9.0          WK        Lokesh Rahul   DC Vice-Captain
+    4      8.5          WK     Nicholas Pooran  LSG       Player
+    5      8.0         BAT      Tristan Stubbs   DC       Player
+    6      8.0         BAT      Mitchell Marsh  LSG       Player
+    7      8.5        BOWL       Kuldeep Yadav   DC       Player
+    8      8.5        BOWL      Mitchell Starc   DC       Player
+    9      9.0          WK        Rishabh Pant  LSG       Player
+   10      7.0         BAT          Karun Nair   DC       Player
+   11      6.5         BAT         Abdul Samad  LSG       Player
+   12      8.0         BAT        David Miller  LSG       Backup
+   13      7.0        BOWL Dushmantha Chameera   DC       Backup
+   14      7.0        BOWL        Mukesh Kumar   DC       Backup
+   15      8.0        BOWL          Avesh Khan  LSG       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 41...
+[DEBUG] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'IsPlaying', 'LineupOrder']
+[DEBUG] Unique Players in squad_df: ['Mitchell Santner' 'Hardik Pandya' 'Abhishek Sharma' 'Will Jacks'
+ 'Heinrich Klaasen' 'Ishan Kishan' 'Ryan Rickelton' 'Suryakumar Yadav'
+ 'Travis Head' 'K Nitish Reddy' 'Tilak Varma' 'Naman Dhir' 'Aniket Verma'
+ 'Jaydev Unadkat' 'Deepak Chahar' 'Pat Cummins' 'Trent Boult'
+ 'Harshal Patel' 'Jasprit Bumrah' 'Zeeshan Ansari' 'Vignesh Puthur'
+ 'Eshan Malinga']
+[DEBUG] Unique Teams in squad_df: ['MI' 'SRH']
+[DEBUG] Captain selected from credits dataset C=1: Hardik Pandya (MI)
+[DEBUG] Vice-Captain selected from credits dataset VC=1: Heinrich Klaasen (SRH)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 2, 'bat': 3, 'all': 4, 'bowl': 2}
+[INFO] Players from each team: {'MI': 6, 'SRH': 5}
+[INFO] Total credits used: 93.0
+[INFO] Final 11: ['Hardik Pandya', 'Abhishek Sharma', 'Heinrich Klaasen', 'Ishan Kishan', 'Suryakumar Yadav', 'Travis Head', 'Tilak Varma', 'Pat Cummins', 'Jasprit Bumrah', 'Mitchell Santner', 'Will Jacks']
+[INFO] Backups: ['Ryan Rickelton', 'K Nitish Reddy', 'Naman Dhir', 'Aniket Verma']
+[INFO] Captain: ['Hardik Pandya']
+[INFO] Vice-Captain: ['Heinrich Klaasen']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role           Player Team     RoleFlag
+    1      9.0         ALL    Hardik Pandya   MI      Captain
+    2      8.5         ALL  Abhishek Sharma  SRH       Player
+    3      9.0          WK Heinrich Klaasen  SRH Vice-Captain
+    4      8.0          WK     Ishan Kishan  SRH       Player
+    5      9.0         BAT Suryakumar Yadav   MI       Player
+    6      9.0         BAT      Travis Head  SRH       Player
+    7      8.0         BAT      Tilak Varma   MI       Player
+    8      8.5        BOWL      Pat Cummins  SRH       Player
+    9      9.0        BOWL   Jasprit Bumrah   MI       Player
+   10      7.5         ALL Mitchell Santner   MI       Player
+   11      7.5         ALL       Will Jacks   MI       Player
+   12      7.5          WK   Ryan Rickelton   MI       Backup
+   13      8.0         BAT   K Nitish Reddy  SRH       Backup
+   14      6.5         BAT       Naman Dhir   MI       Backup
+   15      5.0         BAT     Aniket Verma  SRH       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 42...
+[DEBUG] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'IsPlaying', 'LineupOrder']
+[DEBUG] Unique Players in squad_df: ['Wanindu Hasaranga' 'Krunal Pandya' 'Riyan Parag' 'Romario Shepherd'
+ 'Philip Salt' 'Jitesh Sharma' 'Dhruv Jurel' 'Virat Kohli'
+ 'Shimron Hetmyer' 'Nitish Rana' 'Rajat Patidar' 'Devdutt Padikkal'
+ 'Tim David' 'Yashasvi Jaiswal' 'Shubham Dubey' 'Bhuvneshwar Kumar'
+ 'Josh Hazlewood' 'Sandeep Sharma' 'Jofra Archer' 'Tushar Deshpande'
+ 'Yash Dayal' 'FazalHaq Farooqi']
+[DEBUG] Unique Teams in squad_df: ['RR' 'RCB']
+[DEBUG] Captain selected from credits dataset C=1: Virat Kohli (RCB)
+[DEBUG] Vice-Captain selected from credits dataset VC=1: Yashasvi Jaiswal (RR)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 2, 'bat': 4, 'all': 3, 'bowl': 2}
+[INFO] Players from each team: {'RR': 5, 'RCB': 6}
+[INFO] Total credits used: 90.0
+[INFO] Final 11: ['Riyan Parag', 'Philip Salt', 'Virat Kohli', 'Nitish Rana', 'Rajat Patidar', 'Yashasvi Jaiswal', 'Josh Hazlewood', 'Jofra Archer', 'Wanindu Hasaranga', 'Krunal Pandya', 'Jitesh Sharma']
+[INFO] Backups: ['Dhruv Jurel', 'Shimron Hetmyer', 'Devdutt Padikkal', 'Tim David']
+[INFO] Captain: ['Virat Kohli']
+[INFO] Vice-Captain: ['Yashasvi Jaiswal']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role            Player Team     RoleFlag
+    1      8.0         ALL       Riyan Parag   RR       Player
+    2      8.5          WK       Philip Salt  RCB       Player
+    3      9.0         BAT       Virat Kohli  RCB      Captain
+    4      7.5         BAT       Nitish Rana   RR       Player
+    5      8.0         BAT     Rajat Patidar  RCB       Player
+    6      9.0         BAT  Yashasvi Jaiswal   RR Vice-Captain
+    7      8.5        BOWL    Josh Hazlewood  RCB       Player
+    8      8.0        BOWL      Jofra Archer   RR       Player
+    9      8.5         ALL Wanindu Hasaranga   RR       Player
+   10      7.5         ALL     Krunal Pandya  RCB       Player
+   11      7.5          WK     Jitesh Sharma  RCB       Player
+   12      7.5          WK       Dhruv Jurel   RR       Backup
+   13      7.5         BAT   Shimron Hetmyer   RR       Backup
+   14      7.0         BAT  Devdutt Padikkal  RCB       Backup
+   15      7.5         BAT         Tim David  RCB       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 43...
+[DEBUG] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'IsPlaying', 'LineupOrder']
+[DEBUG] Unique Players in squad_df: ['Abhishek Sharma' 'Kamindu Mendis' 'Ayush Mhatre' 'Sam Curran'
+ 'Ravindra Jadeja' 'Heinrich Klaasen' 'Ishan Kishan' 'MS Dhoni'
+ 'Aniket Verma' 'K Nitish Reddy' 'Shaik Rasheed' 'Dewald Brevis'
+ 'Shivam Dube' 'Deepak Hooda' 'Harshal Patel' 'Jaydev Unadkat'
+ 'Mohammed Shami' 'Pat Cummins' 'Zeeshan Ansari' 'Matheesha Pathirana'
+ 'Noor Ahmad' 'Khaleel Ahmed']
+[DEBUG] Unique Teams in squad_df: ['SRH' 'CHE']
+[DEBUG] Captain selected from credits dataset C=1: Heinrich Klaasen (SRH)
+[DEBUG] Vice-Captain selected from credits dataset VC=1: Abhishek Sharma (SRH)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 3, 'bat': 3, 'all': 3, 'bowl': 2}
+[INFO] Players from each team: {'SRH': 7, 'CHE': 4}
+[INFO] Total credits used: 85.0
+[INFO] Final 11: ['Abhishek Sharma', 'Ravindra Jadeja', 'Heinrich Klaasen', 'Ishan Kishan', 'Shivam Dube', 'Pat Cummins', 'Noor Ahmad', 'Kamindu Mendis', 'MS Dhoni', 'Aniket Verma', 'K Nitish Reddy']
+[INFO] Backups: ['Shaik Rasheed', 'Harshal Patel', 'Jaydev Unadkat', 'Mohammed Shami']
+[INFO] Captain: ['Heinrich Klaasen']
+[INFO] Vice-Captain: ['Abhishek Sharma']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role           Player Team     RoleFlag
+    1      8.5         ALL  Abhishek Sharma  SRH Vice-Captain
+    2      8.5         ALL  Ravindra Jadeja  CHE       Player
+    3      9.0          WK Heinrich Klaasen  SRH      Captain
+    4      8.0          WK     Ishan Kishan  SRH       Player
+    5      8.0         BAT      Shivam Dube  CHE       Player
+    6      8.5        BOWL      Pat Cummins  SRH       Player
+    7      7.5        BOWL       Noor Ahmad  CHE       Player
+    8      7.0         ALL   Kamindu Mendis  SRH       Player
+    9      7.0          WK         MS Dhoni  CHE       Player
+   10      5.0         BAT     Aniket Verma  SRH       Player
+   11      8.0         BAT   K Nitish Reddy  SRH       Player
+   12      5.0         BAT    Shaik Rasheed  CHE       Backup
+   13      8.0        BOWL    Harshal Patel  SRH       Backup
+   14      7.0        BOWL   Jaydev Unadkat  SRH       Backup
+   15      8.5        BOWL   Mohammed Shami  SRH       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 44...
+[DEBUG] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'IsPlaying', 'LineupOrder']
+[DEBUG] Unique Players in squad_df: ['Andre Russell' 'Sunil Narine' 'Marco Jansen' 'Azmatullah Omarzai'
+ 'Glenn Maxwell' 'Rahmanullah Gurbaz' 'Prabhsimran Singh' 'Josh Inglis'
+ 'Rovman Powell' 'Rinku Singh' 'Venkatesh Iyer' 'Ajinkya Rahane'
+ 'Priyansh Arya' 'Nehal Wadhera' 'Shashank Singh' 'Shreyas Iyer'
+ 'Harshit Rana' 'Vaibhav Arora' 'Chetan Sakariya' 'Varun Chakravarthy'
+ 'Arshdeep Singh' 'Yuzvendra Chahal']
+[DEBUG] Unique Teams in squad_df: ['KKR' 'PBKS']
+[DEBUG] Captain selected from credits dataset C=1: Sunil Narine (KKR)
+[DEBUG] Vice-Captain selected from credits dataset VC=1: Shreyas Iyer (PBKS)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 0, 'bat': 6, 'all': 4, 'bowl': 1}
+[INFO] Players from each team: {'KKR': 5, 'PBKS': 6}
+[INFO] Total credits used: 87.5
+[INFO] Final 11: ['Sunil Narine', 'Venkatesh Iyer', 'Ajinkya Rahane', 'Priyansh Arya', 'Nehal Wadhera', 'Shashank Singh', 'Shreyas Iyer', 'Varun Chakravarthy', 'Andre Russell', 'Marco Jansen', 'Azmatullah Omarzai']
+[INFO] Backups: ['Rahmanullah Gurbaz', 'Prabhsimran Singh', 'Josh Inglis', 'Rovman Powell']
+[INFO] Captain: ['Sunil Narine']
+[INFO] Vice-Captain: ['Shreyas Iyer']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role             Player Team     RoleFlag
+    1      9.0         ALL       Sunil Narine  KKR      Captain
+    2      8.0         BAT     Venkatesh Iyer  KKR       Player
+    3      7.5         BAT     Ajinkya Rahane  KKR       Player
+    4      6.5         BAT      Priyansh Arya PBKS       Player
+    5      7.5         BAT      Nehal Wadhera PBKS       Player
+    6      7.5         BAT     Shashank Singh PBKS       Player
+    7      8.5         BAT       Shreyas Iyer PBKS Vice-Captain
+    8      9.0        BOWL Varun Chakravarthy  KKR       Player
+    9      8.5         ALL      Andre Russell  KKR       Player
+   10      8.0         ALL       Marco Jansen PBKS       Player
+   11      7.5         ALL Azmatullah Omarzai PBKS       Player
+   12      7.5          WK Rahmanullah Gurbaz  KKR       Backup
+   13      7.5          WK  Prabhsimran Singh PBKS       Backup
+   14      7.5          WK        Josh Inglis PBKS       Backup
+   15      7.0         BAT      Rovman Powell  KKR       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 45...
+[WARNING] Squad data for match ID 45 not found: [ERROR] Failed to load squad data for match ID 45: Sheet 'Match_45' not found in squad data.
+[INFO] Falling back to best 11 + 4 backups from specified home and away teams.
+[DEBUG] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'Priority', 'Home', 'Away', 'Bat', 'Bowl', 'C', 'VC', 'Runs', 'Balls Faced', 'Fours', 'Sixes', 'Strike Rate', 'Overs', 'Runs Conceded', 'Wickets', 'Economy', 'Catches', 'Stumpings', 'Run Outs (Direct)', 'Run Outs (Assist)', 'Maidens', 'Runs Given', 'IsPlaying', 'LineupOrder']
+[DEBUG] Unique Players in squad_df: ['Digvesh Singh' 'Prince Yadav' 'Shamar Joseph' 'Mayank Yadav'
+ 'Arshin Kulkarni' 'Akash Deep' 'Akash Singh' 'Yuvraj Chaudhary'
+ 'Ravi Bishnoi' 'Abdul Samad' 'Shahbaz Ahmed' 'Rajvardhan Hangargekar'
+ 'Ayush Badoni' 'Aryan Juyal' 'Mohsin Khan' 'Matthew Breetzke'
+ 'Manimaran Siddharth' 'Rishabh Pant' 'Himmat Singh' 'Aiden Markram'
+ 'Avesh Khan' 'Nicholas Pooran' 'David Miller' 'Mitchell Marsh'
+ 'Bevon Jacobs' 'Naman Dhir' 'Robin Minz' 'Raj Angad Bawa'
+ 'Vignesh Puthur' 'Satyanarayana Raju' 'Ashwani Kumar' 'Tilak Varma'
+ 'KL Shrijith' 'Mujeeb-ur-Rahman' 'Ryan Rickelton' 'Arjun Tendulkar'
+ 'Will Jacks' 'Hardik Pandya' 'Mitchell Santner' 'Reece Topley'
+ 'Corbin Bosch' 'Jasprit Bumrah' 'Trent Boult' 'Suryakumar Yadav'
+ 'Deepak Chahar' 'Karn Sharma' 'Rohit Sharma']
+[DEBUG] Unique Teams in squad_df: ['LSG' 'MI']
+[DEBUG] Captain selected from credits dataset C=1: Hardik Pandya (MI)
+[DEBUG] Vice-Captain selected from credits dataset VC=1: Suryakumar Yadav (MI)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 1, 'bat': 3, 'all': 2, 'bowl': 5}
+[INFO] Players from each team: {'LSG': 7, 'MI': 4}
+[INFO] Total credits used: 87.0
+[INFO] Final 11: ['Aiden Markram', 'Nicholas Pooran', 'Mitchell Marsh', 'Tilak Varma', 'Hardik Pandya', 'Jasprit Bumrah', 'Suryakumar Yadav', 'Digvesh Singh', 'Mayank Yadav', 'Akash Deep', 'Ravi Bishnoi']
+[INFO] Backups: ['Abdul Samad', 'Shahbaz Ahmed', 'Ayush Badoni', 'Mohsin Khan']
+[INFO] Captain: ['Hardik Pandya']
+[INFO] Vice-Captain: ['Suryakumar Yadav']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role           Player Team     RoleFlag
+    1      8.0         ALL    Aiden Markram  LSG       Player
+    2      8.5          WK  Nicholas Pooran  LSG       Player
+    3      8.0         BAT   Mitchell Marsh  LSG       Player
+    4      8.0         BAT      Tilak Varma   MI       Player
+    5      9.0         ALL    Hardik Pandya   MI      Captain
+    6      9.0        BOWL   Jasprit Bumrah   MI       Player
+    7      9.0         BAT Suryakumar Yadav   MI Vice-Captain
+    8      5.0        BOWL    Digvesh Singh  LSG       Player
+    9      7.5        BOWL     Mayank Yadav  LSG       Player
+   10      7.0        BOWL       Akash Deep  LSG       Player
+   11      8.0        BOWL     Ravi Bishnoi  LSG       Player
+   12      6.5         BAT      Abdul Samad  LSG       Backup
+   13      7.0         ALL    Shahbaz Ahmed  LSG       Backup
+   14      7.0         BAT     Ayush Badoni  LSG       Backup
+   15      7.0        BOWL      Mohsin Khan  LSG       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 45...
+[WARNING] Squad data for match ID 45 not found: [ERROR] Failed to load squad data for match ID 45: Sheet 'Match_45' not found in squad data.
+[INFO] Falling back to best 11 + 4 backups from specified home and away teams.
+[DEBUG] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'Priority', 'Home', 'Away', 'Bat', 'Bowl', 'C', 'VC', 'Runs', 'Balls Faced', 'Fours', 'Sixes', 'Strike Rate', 'Overs', 'Runs Conceded', 'Wickets', 'Economy', 'Catches', 'Stumpings', 'Run Outs (Direct)', 'Run Outs (Assist)', 'Maidens', 'Runs Given', 'IsPlaying', 'LineupOrder']
+[DEBUG] Unique Players in squad_df: ['Digvesh Singh' 'Prince Yadav' 'Shamar Joseph' 'Mayank Yadav'
+ 'Arshin Kulkarni' 'Akash Deep' 'Akash Singh' 'Yuvraj Chaudhary'
+ 'Ravi Bishnoi' 'Abdul Samad' 'Shahbaz Ahmed' 'Rajvardhan Hangargekar'
+ 'Ayush Badoni' 'Aryan Juyal' 'Mohsin Khan' 'Matthew Breetzke'
+ 'Manimaran Siddharth' 'Rishabh Pant' 'Himmat Singh' 'Aiden Markram'
+ 'Avesh Khan' 'Nicholas Pooran' 'David Miller' 'Mitchell Marsh'
+ 'Bevon Jacobs' 'Naman Dhir' 'Robin Minz' 'Raj Angad Bawa'
+ 'Vignesh Puthur' 'Satyanarayana Raju' 'Ashwani Kumar' 'Tilak Varma'
+ 'KL Shrijith' 'Mujeeb-ur-Rahman' 'Ryan Rickelton' 'Arjun Tendulkar'
+ 'Will Jacks' 'Hardik Pandya' 'Mitchell Santner' 'Reece Topley'
+ 'Corbin Bosch' 'Jasprit Bumrah' 'Trent Boult' 'Suryakumar Yadav'
+ 'Deepak Chahar' 'Karn Sharma' 'Rohit Sharma']
+[DEBUG] Unique Teams in squad_df: ['LSG' 'MI']
+[DEBUG] Captain selected from credits dataset C=1: Hardik Pandya (MI)
+[DEBUG] Vice-Captain selected from credits dataset VC=1: Suryakumar Yadav (MI)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 1, 'bat': 3, 'all': 2, 'bowl': 5}
+[INFO] Players from each team: {'LSG': 7, 'MI': 4}
+[INFO] Total credits used: 87.0
+[INFO] Final 11: ['Aiden Markram', 'Nicholas Pooran', 'Mitchell Marsh', 'Tilak Varma', 'Hardik Pandya', 'Jasprit Bumrah', 'Suryakumar Yadav', 'Digvesh Singh', 'Mayank Yadav', 'Akash Deep', 'Ravi Bishnoi']
+[INFO] Backups: ['Abdul Samad', 'Shahbaz Ahmed', 'Ayush Badoni', 'Mohsin Khan']
+[INFO] Captain: ['Hardik Pandya']
+[INFO] Vice-Captain: ['Suryakumar Yadav']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role           Player Team     RoleFlag
+    1      8.0         ALL    Aiden Markram  LSG       Player
+    2      8.5          WK  Nicholas Pooran  LSG       Player
+    3      8.0         BAT   Mitchell Marsh  LSG       Player
+    4      8.0         BAT      Tilak Varma   MI       Player
+    5      9.0         ALL    Hardik Pandya   MI      Captain
+    6      9.0        BOWL   Jasprit Bumrah   MI       Player
+    7      9.0         BAT Suryakumar Yadav   MI Vice-Captain
+    8      5.0        BOWL    Digvesh Singh  LSG       Player
+    9      7.5        BOWL     Mayank Yadav  LSG       Player
+   10      7.0        BOWL       Akash Deep  LSG       Player
+   11      8.0        BOWL     Ravi Bishnoi  LSG       Player
+   12      6.5         BAT      Abdul Samad  LSG       Backup
+   13      7.0         ALL    Shahbaz Ahmed  LSG       Backup
+   14      7.0         BAT     Ayush Badoni  LSG       Backup
+   15      7.0        BOWL      Mohsin Khan  LSG       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 44...
+[DEBUG] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'IsPlaying', 'LineupOrder']
+[DEBUG] Unique Players in squad_df: ['Andre Russell' 'Sunil Narine' 'Marco Jansen' 'Azmatullah Omarzai'
+ 'Glenn Maxwell' 'Rahmanullah Gurbaz' 'Prabhsimran Singh' 'Josh Inglis'
+ 'Rovman Powell' 'Rinku Singh' 'Venkatesh Iyer' 'Ajinkya Rahane'
+ 'Priyansh Arya' 'Nehal Wadhera' 'Shashank Singh' 'Shreyas Iyer'
+ 'Harshit Rana' 'Vaibhav Arora' 'Chetan Sakariya' 'Varun Chakravarthy'
+ 'Arshdeep Singh' 'Yuzvendra Chahal']
+[DEBUG] Unique Teams in squad_df: ['KKR' 'PBKS']
+[DEBUG] Captain selected from credits dataset C=1: Sunil Narine (KKR)
+[DEBUG] Vice-Captain selected from credits dataset VC=1: Shreyas Iyer (PBKS)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 0, 'bat': 6, 'all': 4, 'bowl': 1}
+[INFO] Players from each team: {'KKR': 5, 'PBKS': 6}
+[INFO] Total credits used: 87.5
+[INFO] Final 11: ['Sunil Narine', 'Venkatesh Iyer', 'Ajinkya Rahane', 'Priyansh Arya', 'Nehal Wadhera', 'Shashank Singh', 'Shreyas Iyer', 'Varun Chakravarthy', 'Andre Russell', 'Marco Jansen', 'Azmatullah Omarzai']
+[INFO] Backups: ['Rahmanullah Gurbaz', 'Prabhsimran Singh', 'Josh Inglis', 'Rovman Powell']
+[INFO] Captain: ['Sunil Narine']
+[INFO] Vice-Captain: ['Shreyas Iyer']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role             Player Team     RoleFlag
+    1      9.0         ALL       Sunil Narine  KKR      Captain
+    2      8.0         BAT     Venkatesh Iyer  KKR       Player
+    3      7.5         BAT     Ajinkya Rahane  KKR       Player
+    4      6.5         BAT      Priyansh Arya PBKS       Player
+    5      7.5         BAT      Nehal Wadhera PBKS       Player
+    6      7.5         BAT     Shashank Singh PBKS       Player
+    7      8.5         BAT       Shreyas Iyer PBKS Vice-Captain
+    8      9.0        BOWL Varun Chakravarthy  KKR       Player
+    9      8.5         ALL      Andre Russell  KKR       Player
+   10      8.0         ALL       Marco Jansen PBKS       Player
+   11      7.5         ALL Azmatullah Omarzai PBKS       Player
+   12      7.5          WK Rahmanullah Gurbaz  KKR       Backup
+   13      7.5          WK  Prabhsimran Singh PBKS       Backup
+   14      7.5          WK        Josh Inglis PBKS       Backup
+   15      7.0         BAT      Rovman Powell  KKR       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 45...
+[WARNING] Squad data for match ID 45 not found: [ERROR] Failed to load squad data for match ID 45: Sheet 'Match_45' not found in squad data.
+[INFO] Falling back to best 11 + 4 backups from specified home and away teams.
+[DEBUG] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'Priority', 'Home', 'Away', 'Bat', 'Bowl', 'C', 'VC', 'Runs', 'Balls Faced', 'Fours', 'Sixes', 'Strike Rate', 'Overs', 'Runs Conceded', 'Wickets', 'Economy', 'Catches', 'Stumpings', 'Run Outs (Direct)', 'Run Outs (Assist)', 'Maidens', 'Runs Given', 'IsPlaying', 'LineupOrder']
+[DEBUG] Unique Players in squad_df: ['Digvesh Singh' 'Prince Yadav' 'Shamar Joseph' 'Mayank Yadav'
+ 'Arshin Kulkarni' 'Akash Deep' 'Akash Singh' 'Yuvraj Chaudhary'
+ 'Ravi Bishnoi' 'Abdul Samad' 'Shahbaz Ahmed' 'Rajvardhan Hangargekar'
+ 'Ayush Badoni' 'Aryan Juyal' 'Mohsin Khan' 'Matthew Breetzke'
+ 'Manimaran Siddharth' 'Rishabh Pant' 'Himmat Singh' 'Aiden Markram'
+ 'Avesh Khan' 'Nicholas Pooran' 'David Miller' 'Mitchell Marsh'
+ 'Bevon Jacobs' 'Naman Dhir' 'Robin Minz' 'Raj Angad Bawa'
+ 'Vignesh Puthur' 'Satyanarayana Raju' 'Ashwani Kumar' 'Tilak Varma'
+ 'KL Shrijith' 'Mujeeb-ur-Rahman' 'Ryan Rickelton' 'Arjun Tendulkar'
+ 'Will Jacks' 'Hardik Pandya' 'Mitchell Santner' 'Reece Topley'
+ 'Corbin Bosch' 'Jasprit Bumrah' 'Trent Boult' 'Suryakumar Yadav'
+ 'Deepak Chahar' 'Karn Sharma' 'Rohit Sharma']
+[DEBUG] Unique Teams in squad_df: ['LSG' 'MI']
+[DEBUG] Captain selected from credits dataset C=1: Hardik Pandya (MI)
+[DEBUG] Vice-Captain selected from credits dataset VC=1: Suryakumar Yadav (MI)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 1, 'bat': 3, 'all': 2, 'bowl': 5}
+[INFO] Players from each team: {'LSG': 7, 'MI': 4}
+[INFO] Total credits used: 87.0
+[INFO] Final 11: ['Aiden Markram', 'Nicholas Pooran', 'Mitchell Marsh', 'Tilak Varma', 'Hardik Pandya', 'Jasprit Bumrah', 'Suryakumar Yadav', 'Digvesh Singh', 'Mayank Yadav', 'Akash Deep', 'Ravi Bishnoi']
+[INFO] Backups: ['Abdul Samad', 'Shahbaz Ahmed', 'Ayush Badoni', 'Mohsin Khan']
+[INFO] Captain: ['Hardik Pandya']
+[INFO] Vice-Captain: ['Suryakumar Yadav']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role           Player Team     RoleFlag
+    1      8.0         ALL    Aiden Markram  LSG       Player
+    2      8.5          WK  Nicholas Pooran  LSG       Player
+    3      8.0         BAT   Mitchell Marsh  LSG       Player
+    4      8.0         BAT      Tilak Varma   MI       Player
+    5      9.0         ALL    Hardik Pandya   MI      Captain
+    6      9.0        BOWL   Jasprit Bumrah   MI       Player
+    7      9.0         BAT Suryakumar Yadav   MI Vice-Captain
+    8      5.0        BOWL    Digvesh Singh  LSG       Player
+    9      7.5        BOWL     Mayank Yadav  LSG       Player
+   10      7.0        BOWL       Akash Deep  LSG       Player
+   11      8.0        BOWL     Ravi Bishnoi  LSG       Player
+   12      6.5         BAT      Abdul Samad  LSG       Backup
+   13      7.0         ALL    Shahbaz Ahmed  LSG       Backup
+   14      7.0         BAT     Ayush Badoni  LSG       Backup
+   15      7.0        BOWL      Mohsin Khan  LSG       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 45...
+[DEBUG] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'IsPlaying', 'LineupOrder']
+[DEBUG] Unique Players in squad_df: ['Aiden Markram' 'Corbin Bosch' 'Hardik Pandya' 'Will Jacks'
+ 'Nicholas Pooran' 'Rishabh Pant' 'Ryan Rickelton' 'Abdul Samad'
+ 'Ayush Badoni' 'Mitchell Marsh' 'Naman Dhir' 'Rohit Sharma'
+ 'Suryakumar Yadav' 'Tilak Varma' 'Avesh Khan' 'Digvesh Singh'
+ 'Mayank Yadav' 'Prince Yadav' 'Ravi Bishnoi' 'Deepak Chahar'
+ 'Karn Sharma' 'Trent Boult']
+[DEBUG] Unique Teams in squad_df: ['LSG' 'MI']
+[DEBUG] Captain selected from credits dataset C=1: Hardik Pandya (MI)
+[DEBUG] Vice-Captain selected from credits dataset VC=1: Suryakumar Yadav (MI)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 3, 'bat': 5, 'all': 3, 'bowl': 0}
+[INFO] Players from each team: {'LSG': 6, 'MI': 5}
+[INFO] Total credits used: 88.0
+[INFO] Final 11: ['Aiden Markram', 'Hardik Pandya', 'Nicholas Pooran', 'Mitchell Marsh', 'Suryakumar Yadav', 'Tilak Varma', 'Will Jacks', 'Rishabh Pant', 'Ryan Rickelton', 'Abdul Samad', 'Ayush Badoni']
+[INFO] Backups: ['Naman Dhir', 'Rohit Sharma', 'Avesh Khan', 'Digvesh Singh']
+[INFO] Captain: ['Hardik Pandya']
+[INFO] Vice-Captain: ['Suryakumar Yadav']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role           Player Team     RoleFlag
+    1      8.0         ALL    Aiden Markram  LSG       Player
+    2      9.0         ALL    Hardik Pandya   MI      Captain
+    3      8.5          WK  Nicholas Pooran  LSG       Player
+    4      8.0         BAT   Mitchell Marsh  LSG       Player
+    5      9.0         BAT Suryakumar Yadav   MI Vice-Captain
+    6      8.0         BAT      Tilak Varma   MI       Player
+    7      7.5         ALL       Will Jacks   MI       Player
+    8      9.0          WK     Rishabh Pant  LSG       Player
+    9      7.5          WK   Ryan Rickelton   MI       Player
+   10      6.5         BAT      Abdul Samad  LSG       Player
+   11      7.0         BAT     Ayush Badoni  LSG       Player
+   12      6.5         BAT       Naman Dhir   MI       Backup
+   13      9.0         BAT     Rohit Sharma   MI       Backup
+   14      8.0        BOWL       Avesh Khan  LSG       Backup
+   15      5.0        BOWL    Digvesh Singh  LSG       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 45...
+[DEBUG] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'IsPlaying', 'LineupOrder']
+[DEBUG] Unique Players in squad_df: ['Aiden Markram' 'Corbin Bosch' 'Hardik Pandya' 'Will Jacks'
+ 'Nicholas Pooran' 'Rishabh Pant' 'Ryan Rickelton' 'Abdul Samad'
+ 'Ayush Badoni' 'Mitchell Marsh' 'Naman Dhir' 'Rohit Sharma'
+ 'Suryakumar Yadav' 'Tilak Varma' 'Avesh Khan' 'Digvesh Singh'
+ 'Mayank Yadav' 'Prince Yadav' 'Ravi Bishnoi' 'Deepak Chahar'
+ 'Karn Sharma' 'Trent Boult']
+[DEBUG] Unique Teams in squad_df: ['LSG' 'MI']
+[DEBUG] Captain selected from credits dataset C=1: Hardik Pandya (MI)
+[DEBUG] Vice-Captain selected from credits dataset VC=1: Suryakumar Yadav (MI)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 3, 'bat': 5, 'all': 3, 'bowl': 0}
+[INFO] Players from each team: {'LSG': 6, 'MI': 5}
+[INFO] Total credits used: 88.0
+[INFO] Final 11: ['Aiden Markram', 'Hardik Pandya', 'Nicholas Pooran', 'Mitchell Marsh', 'Suryakumar Yadav', 'Tilak Varma', 'Will Jacks', 'Rishabh Pant', 'Ryan Rickelton', 'Abdul Samad', 'Ayush Badoni']
+[INFO] Backups: ['Naman Dhir', 'Rohit Sharma', 'Avesh Khan', 'Digvesh Singh']
+[INFO] Captain: ['Hardik Pandya']
+[INFO] Vice-Captain: ['Suryakumar Yadav']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role           Player Team     RoleFlag
+    1      8.0         ALL    Aiden Markram  LSG       Player
+    2      9.0         ALL    Hardik Pandya   MI      Captain
+    3      8.5          WK  Nicholas Pooran  LSG       Player
+    4      8.0         BAT   Mitchell Marsh  LSG       Player
+    5      9.0         BAT Suryakumar Yadav   MI Vice-Captain
+    6      8.0         BAT      Tilak Varma   MI       Player
+    7      7.5         ALL       Will Jacks   MI       Player
+    8      9.0          WK     Rishabh Pant  LSG       Player
+    9      7.5          WK   Ryan Rickelton   MI       Player
+   10      6.5         BAT      Abdul Samad  LSG       Player
+   11      7.0         BAT     Ayush Badoni  LSG       Player
+   12      6.5         BAT       Naman Dhir   MI       Backup
+   13      9.0         BAT     Rohit Sharma   MI       Backup
+   14      8.0        BOWL       Avesh Khan  LSG       Backup
+   15      5.0        BOWL    Digvesh Singh  LSG       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 46...
+[WARNING] Squad data for match ID 46 not found: [ERROR] Failed to load squad data for match ID 46: Sheet 'Match_46' not found in squad data.
+[INFO] Falling back to best 11 + 4 backups from specified home and away teams.
+[DEBUG] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'Priority', 'Home', 'Away', 'Bat', 'Bowl', 'C', 'VC', 'Runs', 'Balls Faced', 'Fours', 'Sixes', 'Strike Rate', 'Overs', 'Runs Conceded', 'Wickets', 'Economy', 'Catches', 'Stumpings', 'Run Outs (Direct)', 'Run Outs (Assist)', 'Maidens', 'Runs Given', 'IsPlaying', 'LineupOrder']
+[DEBUG] Unique Players in squad_df: ['Madhav Tiwari' 'Manvanth Kumar L' 'Tripurana Vijay' 'Vipraj Nigam'
+ 'Tristan Stubbs' 'Abishek Porel' 'Ashutosh Sharma' 'Donovan Ferreira'
+ 'Sameer Rizvi' 'Jake Fraser-McGurk' 'Ajay Mandal' 'Darshan Nalkande'
+ 'T Natarajan' 'Mukesh Kumar' 'Kuldeep Yadav' 'Mohit Sharma'
+ 'Lokesh Rahul' 'Axar Patel' 'Dushmantha Chameera' 'Karun Nair'
+ 'Faf du Plessis' 'Mitchell Starc' 'Abhinandan Singh' 'Swastik Chikara'
+ 'Mohit Rathee' 'Suyash Sharma' 'Jacob Bethell' 'Rasikh Salam'
+ 'Yash Dayal' 'Manoj Bhandage' 'Nuwan Thushara' 'Romario Shepherd'
+ 'Tim David' 'Devdutt Padikkal' 'Krunal Pandya' 'Rajat Patidar'
+ 'Jitesh Sharma' 'Lungi Ngidi' 'Philip Salt' 'Liam Livingstone'
+ 'Josh Hazlewood' 'Bhuvneshwar Kumar' 'Swapnil Singh' 'Virat Kohli']
+[DEBUG] Unique Teams in squad_df: ['DC' 'RCB']
+[DEBUG] Captain selected from credits dataset C=1: Lokesh Rahul (DC)
+[DEBUG] Vice-Captain selected from credits dataset VC=1: Axar Patel (DC)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 2, 'bat': 3, 'all': 2, 'bowl': 4}
+[INFO] Players from each team: {'DC': 7, 'RCB': 4}
+[INFO] Total credits used: 91.5
+[INFO] Final 11: ['Tristan Stubbs', 'Kuldeep Yadav', 'Lokesh Rahul', 'Axar Patel', 'Mitchell Starc', 'Rajat Patidar', 'Philip Salt', 'Josh Hazlewood', 'Virat Kohli', 'Donovan Ferreira', 'T Natarajan']
+[INFO] Backups: ['Mukesh Kumar', 'Mohit Sharma', 'Dushmantha Chameera', 'Karun Nair']
+[INFO] Captain: ['Lokesh Rahul']
+[INFO] Vice-Captain: ['Axar Patel']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role              Player Team     RoleFlag
+    1      8.0         BAT      Tristan Stubbs   DC       Player
+    2      8.5        BOWL       Kuldeep Yadav   DC       Player
+    3      9.0          WK        Lokesh Rahul   DC      Captain
+    4      9.0         ALL          Axar Patel   DC Vice-Captain
+    5      8.5        BOWL      Mitchell Starc   DC       Player
+    6      8.0         BAT       Rajat Patidar  RCB       Player
+    7      8.5          WK         Philip Salt  RCB       Player
+    8      8.5        BOWL      Josh Hazlewood  RCB       Player
+    9      9.0         BAT         Virat Kohli  RCB       Player
+   10      7.0         ALL    Donovan Ferreira   DC       Player
+   11      7.5        BOWL         T Natarajan   DC       Player
+   12      7.0        BOWL        Mukesh Kumar   DC       Backup
+   13      7.5        BOWL        Mohit Sharma   DC       Backup
+   14      7.0        BOWL Dushmantha Chameera   DC       Backup
+   15      7.0         BAT          Karun Nair   DC       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 46...
+[DEBUG] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'IsPlaying', 'LineupOrder']
+[DEBUG] Unique Players in squad_df: ['Axar Patel' 'Vipraj Nigam' 'Krunal Pandya' 'Romario Shepherd'
+ 'Abishek Porel' 'Lokesh Rahul' 'Jitesh Sharma' 'Faf du Plessis'
+ 'Karun Nair' 'Tristan Stubbs' 'Jacob Bethell' 'Rajat Patidar' 'Tim David'
+ 'Virat Kohli' 'Dushmantha Chameera' 'Kuldeep Yadav' 'Mitchell Starc'
+ 'Mukesh Kumar' 'Bhuvneshwar Kumar' 'Josh Hazlewood' 'Suyash Sharma'
+ 'Yash Dayal']
+[DEBUG] Unique Teams in squad_df: ['DC' 'RCB']
+[DEBUG] Captain selected from credits dataset C=1: Axar Patel (DC)
+[DEBUG] Vice-Captain selected from credits dataset VC=1: Lokesh Rahul (DC)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 2, 'bat': 4, 'all': 2, 'bowl': 3}
+[INFO] Players from each team: {'DC': 6, 'RCB': 5}
+[INFO] Total credits used: 92.0
+[INFO] Final 11: ['Axar Patel', 'Lokesh Rahul', 'Tristan Stubbs', 'Rajat Patidar', 'Virat Kohli', 'Kuldeep Yadav', 'Mitchell Starc', 'Josh Hazlewood', 'Krunal Pandya', 'Jitesh Sharma', 'Faf du Plessis']
+[INFO] Backups: ['Karun Nair', 'Tim David', 'Dushmantha Chameera', 'Mukesh Kumar']
+[INFO] Captain: ['Axar Patel']
+[INFO] Vice-Captain: ['Lokesh Rahul']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role              Player Team     RoleFlag
+    1      9.0         ALL          Axar Patel   DC      Captain
+    2      9.0          WK        Lokesh Rahul   DC Vice-Captain
+    3      8.0         BAT      Tristan Stubbs   DC       Player
+    4      8.0         BAT       Rajat Patidar  RCB       Player
+    5      9.0         BAT         Virat Kohli  RCB       Player
+    6      8.5        BOWL       Kuldeep Yadav   DC       Player
+    7      8.5        BOWL      Mitchell Starc   DC       Player
+    8      8.5        BOWL      Josh Hazlewood  RCB       Player
+    9      7.5         ALL       Krunal Pandya  RCB       Player
+   10      7.5          WK       Jitesh Sharma  RCB       Player
+   11      8.5         BAT      Faf du Plessis   DC       Player
+   12      7.0         BAT          Karun Nair   DC       Backup
+   13      7.5         BAT           Tim David  RCB       Backup
+   14      7.0        BOWL Dushmantha Chameera   DC       Backup
+   15      7.0        BOWL        Mukesh Kumar   DC       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 47...
+[DEBUG] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'IsPlaying', 'LineupOrder']
+[DEBUG] Unique Players in squad_df: ['Rahul Tewatia' 'Shahrukh Khan' 'Washington Sundar' 'Karim Janat'
+ 'Wanindu Hasaranga' 'Riyan Parag' 'Yudhvir Singh Charak' 'Jos Buttler'
+ 'Dhruv Jurel' 'Shimron Hetmyer' 'Nitish Rana' 'Shubman Gill'
+ 'Yashasvi Jaiswal' 'Sai Sudharsan' 'Vaibhav Suryavanshi' 'Sandeep Sharma'
+ 'Prasidh Krishna' 'Rashid-Khan' 'Mohammed Siraj' 'Jofra Archer'
+ 'Ravisrinivasan Sai Kishore' 'Maheesh Theekshana']
+[DEBUG] Unique Teams in squad_df: ['GT' 'RR']
+[DEBUG] Captain selected from credits dataset C=1: Jos Buttler (GT)
+[DEBUG] Vice-Captain selected from credits dataset VC=1: Yashasvi Jaiswal (RR)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 1, 'bat': 4, 'all': 3, 'bowl': 3}
+[INFO] Players from each team: {'GT': 7, 'RR': 4}
+[INFO] Total credits used: 87.5
+[INFO] Final 11: ['Riyan Parag', 'Jos Buttler', 'Nitish Rana', 'Shubman Gill', 'Yashasvi Jaiswal', 'Sai Sudharsan', 'Prasidh Krishna', 'Jofra Archer', 'Ravisrinivasan Sai Kishore', 'Rahul Tewatia', 'Shahrukh Khan']
+[INFO] Backups: ['Washington Sundar', 'Wanindu Hasaranga', 'Dhruv Jurel', 'Shimron Hetmyer']
+[INFO] Captain: ['Jos Buttler']
+[INFO] Vice-Captain: ['Yashasvi Jaiswal']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role                     Player Team     RoleFlag
+    1      8.0         ALL                Riyan Parag   RR       Player
+    2      9.0          WK                Jos Buttler   GT      Captain
+    3      7.5         BAT                Nitish Rana   RR       Player
+    4      9.0         BAT               Shubman Gill   GT       Player
+    5      9.0         BAT           Yashasvi Jaiswal   RR Vice-Captain
+    6      8.0         BAT              Sai Sudharsan   GT       Player
+    7      7.5        BOWL            Prasidh Krishna   GT       Player
+    8      8.0        BOWL               Jofra Archer   RR       Player
+    9      7.0        BOWL Ravisrinivasan Sai Kishore   GT       Player
+   10      7.0         ALL              Rahul Tewatia   GT       Player
+   11      7.5         ALL              Shahrukh Khan   GT       Player
+   12      7.0         ALL          Washington Sundar   GT       Backup
+   13      8.5         ALL          Wanindu Hasaranga   RR       Backup
+   14      7.5          WK                Dhruv Jurel   RR       Backup
+   15      7.5         BAT            Shimron Hetmyer   RR       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 48...
+[DEBUG] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'IsPlaying', 'LineupOrder']
+[DEBUG] Unique Players in squad_df: ['Axar Patel' 'Vipraj Nigam' 'Anukul Sudhakar Roy' 'Andre Russell'
+ 'Sunil Narine' 'Abishek Porel' 'Lokesh Rahul' 'Rahmanullah Gurbaz'
+ 'Faf du Plessis' 'Karun Nair' 'Tristan Stubbs' 'Angkrish Raghuvanshi'
+ 'Rovman Powell' 'Rinku Singh' 'Venkatesh Iyer' 'Ajinkya Rahane'
+ 'Dushmantha Chameera' 'Kuldeep Yadav' 'Mitchell Starc' 'Mukesh Kumar'
+ 'Harshit Rana' 'Varun Chakravarthy']
+[DEBUG] Unique Teams in squad_df: ['DC' 'KKR']
+[DEBUG] Captain selected from credits dataset C=1: Axar Patel (DC)
+[DEBUG] Vice-Captain selected from credits dataset VC=1: Sunil Narine (KKR)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 1, 'bat': 4, 'all': 3, 'bowl': 3}
+[INFO] Players from each team: {'DC': 5, 'KKR': 6}
+[INFO] Total credits used: 91.5
+[INFO] Final 11: ['Axar Patel', 'Sunil Narine', 'Lokesh Rahul', 'Tristan Stubbs', 'Angkrish Raghuvanshi', 'Venkatesh Iyer', 'Ajinkya Rahane', 'Kuldeep Yadav', 'Mitchell Starc', 'Varun Chakravarthy', 'Andre Russell']
+[INFO] Backups: ['Rahmanullah Gurbaz', 'Faf du Plessis', 'Karun Nair', 'Rovman Powell']
+[INFO] Captain: ['Axar Patel']
+[INFO] Vice-Captain: ['Sunil Narine']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role               Player Team     RoleFlag
+    1      9.0         ALL           Axar Patel   DC      Captain
+    2      9.0         ALL         Sunil Narine  KKR Vice-Captain
+    3      9.0          WK         Lokesh Rahul   DC       Player
+    4      8.0         BAT       Tristan Stubbs   DC       Player
+    5      6.5         BAT Angkrish Raghuvanshi  KKR       Player
+    6      8.0         BAT       Venkatesh Iyer  KKR       Player
+    7      7.5         BAT       Ajinkya Rahane  KKR       Player
+    8      8.5        BOWL        Kuldeep Yadav   DC       Player
+    9      8.5        BOWL       Mitchell Starc   DC       Player
+   10      9.0        BOWL   Varun Chakravarthy  KKR       Player
+   11      8.5         ALL        Andre Russell  KKR       Player
+   12      7.5          WK   Rahmanullah Gurbaz  KKR       Backup
+   13      8.5         BAT       Faf du Plessis   DC       Backup
+   14      7.0         BAT           Karun Nair   DC       Backup
+   15      7.0         BAT        Rovman Powell  KKR       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 49...
+[DEBUG] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'IsPlaying', 'LineupOrder']
+[DEBUG] Unique Players in squad_df: ['Marco Jansen' 'Azmatullah Omarzai' 'Sam Curran' 'Ravindra Jadeja'
+ 'Josh Inglis' 'MS Dhoni' 'Suryansh Shedge' 'Priyansh Arya'
+ 'Nehal Wadhera' 'Shashank Singh' 'Shreyas Iyer' 'Ayush Mhatre'
+ 'Shaik Rasheed' 'Dewald Brevis' 'Shivam Dube' 'Deepak Hooda'
+ 'Harpreet Brar' 'Arshdeep Singh' 'Yuzvendra Chahal' 'Matheesha Pathirana'
+ 'Noor Ahmad' 'Khaleel Ahmed']
+[DEBUG] Unique Teams in squad_df: ['PBKS' 'CHE']
+[DEBUG] Captain selected from credits dataset C=1: Ravindra Jadeja (CHE)
+[DEBUG] Vice-Captain selected from credits dataset VC=1: Shreyas Iyer (PBKS)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 2, 'bat': 5, 'all': 3, 'bowl': 1}
+[INFO] Players from each team: {'PBKS': 7, 'CHE': 4}
+[INFO] Total credits used: 84.0
+[INFO] Final 11: ['Ravindra Jadeja', 'Priyansh Arya', 'Nehal Wadhera', 'Shashank Singh', 'Shreyas Iyer', 'Shivam Dube', 'Noor Ahmad', 'Marco Jansen', 'Azmatullah Omarzai', 'Josh Inglis', 'MS Dhoni']
+[INFO] Backups: ['Shaik Rasheed', 'Arshdeep Singh', 'Yuzvendra Chahal', 'Matheesha Pathirana']
+[INFO] Captain: ['Ravindra Jadeja']
+[INFO] Vice-Captain: ['Shreyas Iyer']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role              Player Team     RoleFlag
+    1      8.5         ALL     Ravindra Jadeja  CHE      Captain
+    2      6.5         BAT       Priyansh Arya PBKS       Player
+    3      7.5         BAT       Nehal Wadhera PBKS       Player
+    4      7.5         BAT      Shashank Singh PBKS       Player
+    5      8.5         BAT        Shreyas Iyer PBKS Vice-Captain
+    6      8.0         BAT         Shivam Dube  CHE       Player
+    7      7.5        BOWL          Noor Ahmad  CHE       Player
+    8      8.0         ALL        Marco Jansen PBKS       Player
+    9      7.5         ALL  Azmatullah Omarzai PBKS       Player
+   10      7.5          WK         Josh Inglis PBKS       Player
+   11      7.0          WK            MS Dhoni  CHE       Player
+   12      5.0         BAT       Shaik Rasheed  CHE       Backup
+   13      8.5        BOWL      Arshdeep Singh PBKS       Backup
+   14      8.5        BOWL    Yuzvendra Chahal PBKS       Backup
+   15      8.5        BOWL Matheesha Pathirana  CHE       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 50...
+[DEBUG] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'IsPlaying', 'LineupOrder']
+[DEBUG] Unique Players in squad_df: ['Will Jacks' 'Hardik Pandya' 'Corbin Bosch' 'Riyan Parag'
+ 'Ryan Rickelton' 'Dhruv Jurel' 'Naman Dhir' 'Tilak Varma'
+ 'Suryakumar Yadav' 'Rohit Sharma' 'Vaibhav Suryavanshi'
+ 'Yashasvi Jaiswal' 'Nitish Rana' 'Shimron Hetmyer' 'Jasprit Bumrah'
+ 'Trent Boult' 'Deepak Chahar' 'Akash Madhwal' 'Maheesh Theekshana'
+ 'Kumar Kartikeya' 'FazalHaq Farooqi' 'Jofra Archer']
+[DEBUG] Unique Teams in squad_df: ['MI' 'RR']
+[DEBUG] Captain selected from credits dataset C=1: Hardik Pandya (MI)
+[DEBUG] Vice-Captain selected from credits dataset VC=1: Suryakumar Yadav (MI)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 2, 'bat': 4, 'all': 3, 'bowl': 2}
+[INFO] Players from each team: {'MI': 6, 'RR': 5}
+[INFO] Total credits used: 90.0
+[INFO] Final 11: ['Hardik Pandya', 'Riyan Parag', 'Tilak Varma', 'Suryakumar Yadav', 'Yashasvi Jaiswal', 'Nitish Rana', 'Jasprit Bumrah', 'Jofra Archer', 'Will Jacks', 'Ryan Rickelton', 'Dhruv Jurel']
+[INFO] Backups: ['Naman Dhir', 'Rohit Sharma', 'Vaibhav Suryavanshi', 'Shimron Hetmyer']
+[INFO] Captain: ['Hardik Pandya']
+[INFO] Vice-Captain: ['Suryakumar Yadav']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role              Player Team     RoleFlag
+    1      9.0         ALL       Hardik Pandya   MI      Captain
+    2      8.0         ALL         Riyan Parag   RR       Player
+    3      8.0         BAT         Tilak Varma   MI       Player
+    4      9.0         BAT    Suryakumar Yadav   MI Vice-Captain
+    5      9.0         BAT    Yashasvi Jaiswal   RR       Player
+    6      7.5         BAT         Nitish Rana   RR       Player
+    7      9.0        BOWL      Jasprit Bumrah   MI       Player
+    8      8.0        BOWL        Jofra Archer   RR       Player
+    9      7.5         ALL          Will Jacks   MI       Player
+   10      7.5          WK      Ryan Rickelton   MI       Player
+   11      7.5          WK         Dhruv Jurel   RR       Player
+   12      6.5         BAT          Naman Dhir   MI       Backup
+   13      9.0         BAT        Rohit Sharma   MI       Backup
+   14      5.0         BAT Vaibhav Suryavanshi   RR       Backup
+   15      7.5         BAT     Shimron Hetmyer   RR       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 51...
+[DEBUG] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'IsPlaying', 'LineupOrder']
+[DEBUG] Unique Players in squad_df: ['Abhishek Sharma' 'Kamindu Mendis' 'Washington Sundar' 'Shahrukh Khan'
+ 'Rahul Tewatia' 'Heinrich Klaasen' 'Ishan Kishan' 'Jos Buttler'
+ 'Aniket Verma' 'K Nitish Reddy' 'Sai Sudharsan' 'Shubman Gill'
+ 'Harshal Patel' 'Jaydev Unadkat' 'Mohammed Shami' 'Pat Cummins'
+ 'Zeeshan Ansari' 'Prasidh Krishna' 'Mohammed Siraj'
+ 'Ravisrinivasan Sai Kishore' 'Rashid-Khan' 'Gerald Coetzee']
+[DEBUG] Unique Teams in squad_df: ['SRH' 'GT']
+[DEBUG] Captain selected from credits dataset C=1: Heinrich Klaasen (SRH)
+[DEBUG] Vice-Captain selected from credits dataset VC=1: Jos Buttler (GT)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 3, 'bat': 2, 'all': 3, 'bowl': 3}
+[INFO] Players from each team: {'SRH': 5, 'GT': 6}
+[INFO] Total credits used: 88.5
+[INFO] Final 11: ['Abhishek Sharma', 'Heinrich Klaasen', 'Ishan Kishan', 'Jos Buttler', 'Sai Sudharsan', 'Shubman Gill', 'Pat Cummins', 'Prasidh Krishna', 'Ravisrinivasan Sai Kishore', 'Kamindu Mendis', 'Washington Sundar']
+[INFO] Backups: ['Shahrukh Khan', 'Rahul Tewatia', 'Aniket Verma', 'K Nitish Reddy']
+[INFO] Captain: ['Heinrich Klaasen']
+[INFO] Vice-Captain: ['Jos Buttler']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role                     Player Team     RoleFlag
+    1      8.5         ALL            Abhishek Sharma  SRH       Player
+    2      9.0          WK           Heinrich Klaasen  SRH      Captain
+    3      8.0          WK               Ishan Kishan  SRH       Player
+    4      9.0          WK                Jos Buttler   GT Vice-Captain
+    5      8.0         BAT              Sai Sudharsan   GT       Player
+    6      9.0         BAT               Shubman Gill   GT       Player
+    7      8.5        BOWL                Pat Cummins  SRH       Player
+    8      7.5        BOWL            Prasidh Krishna   GT       Player
+    9      7.0        BOWL Ravisrinivasan Sai Kishore   GT       Player
+   10      7.0         ALL             Kamindu Mendis  SRH       Player
+   11      7.0         ALL          Washington Sundar   GT       Player
+   12      7.5         ALL              Shahrukh Khan   GT       Backup
+   13      7.0         ALL              Rahul Tewatia   GT       Backup
+   14      5.0         BAT               Aniket Verma  SRH       Backup
+   15      8.0         BAT             K Nitish Reddy  SRH       Backup
+[INFO] Initializing TeamSelector...
+[INFO] Initializing TeamSelector...
+[INFO] Loading data files...
+[INFO] Data files loaded and standardized successfully.
+[INFO] Initializing components...
+[INFO] Components initialized successfully.
+[INFO] Predicting the best team...
+[INFO] Starting prediction process...
+[INFO] Loading squad data for match ID 52...
+[DEBUG] Squad DataFrame columns: ['Credits', 'Player Role', 'Player', 'Team', 'IsPlaying', 'LineupOrder']
+[DEBUG] Unique Players in squad_df: ['Krunal Pandya' 'Romario Shepherd' 'Sam Curran' 'Ravindra Jadeja'
+ 'Jitesh Sharma' 'MS Dhoni' 'Devdutt Padikkal' 'Jacob Bethell'
+ 'Rajat Patidar' 'Tim David' 'Virat Kohli' 'Ayush Mhatre' 'Shaik Rasheed'
+ 'Dewald Brevis' 'Deepak Hooda' 'Bhuvneshwar Kumar' 'Lungi Ngidi'
+ 'Yash Dayal' 'Matheesha Pathirana' 'Noor Ahmad' 'Anshul Kamboj'
+ 'Khaleel Ahmed']
+[DEBUG] Unique Teams in squad_df: ['RCB' 'CHE']
+[DEBUG] Captain selected from credits dataset C=1: Virat Kohli (RCB)
+[DEBUG] Vice-Captain selected from credits dataset VC=1: Ravindra Jadeja (CHE)
+[INFO] 
+[TEAM SELECTION SUMMARY]
+[INFO] Team composition: {'wk': 2, 'bat': 5, 'all': 2, 'bowl': 2}
+[INFO] Players from each team: {'RCB': 7, 'CHE': 4}
+[INFO] Total credits used: 82.5
+[INFO] Final 11: ['Ravindra Jadeja', 'Rajat Patidar', 'Virat Kohli', 'Noor Ahmad', 'Krunal Pandya', 'Jitesh Sharma', 'MS Dhoni', 'Devdutt Padikkal', 'Tim David', 'Shaik Rasheed', 'Bhuvneshwar Kumar']
+[INFO] Backups: ['Yash Dayal', 'Matheesha Pathirana', 'Khaleel Ahmed', 'Romario Shepherd']
+[INFO] Captain: ['Virat Kohli']
+[INFO] Vice-Captain: ['Ravindra Jadeja']
+[INFO] Final Team (Submission Format):
+ S.No  Credits Player Role              Player Team     RoleFlag
+    1      8.5         ALL     Ravindra Jadeja  CHE Vice-Captain
+    2      8.0         BAT       Rajat Patidar  RCB       Player
+    3      9.0         BAT         Virat Kohli  RCB      Captain
+    4      7.5        BOWL          Noor Ahmad  CHE       Player
+    5      7.5         ALL       Krunal Pandya  RCB       Player
+    6      7.5          WK       Jitesh Sharma  RCB       Player
+    7      7.0          WK            MS Dhoni  CHE       Player
+    8      7.0         BAT    Devdutt Padikkal  RCB       Player
+    9      7.5         BAT           Tim David  RCB       Player
+   10      5.0         BAT       Shaik Rasheed  CHE       Player
+   11      8.0        BOWL   Bhuvneshwar Kumar  RCB       Player
+   12      7.0        BOWL          Yash Dayal  RCB       Backup
+   13      8.5        BOWL Matheesha Pathirana  CHE       Backup
+   14      7.5        BOWL       Khaleel Ahmed  CHE       Backup
+   15      7.0         ALL    Romario Shepherd  RCB       Backup
