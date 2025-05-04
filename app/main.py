@@ -3,14 +3,8 @@ import sys
 import os
 import logging
 
-# Determine if running in Docker or locally
-is_docker = os.path.exists('/.dockerenv')
-
-# Set base directory based on environment
-if is_docker:
-    base_dir = '/app'
-else:
-    base_dir = 'e:\\D11Backup'
+# Set base directory for Docker environment
+base_dir = '/app'
 
 # Set up logging to file and console
 log_dir = os.path.join(base_dir, 'outputs', 'logs')
